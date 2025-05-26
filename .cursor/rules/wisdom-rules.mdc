@@ -1,0 +1,43 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Page Structure
+The following structure must be followed when drafting the page. 
+
+# Content
+Be practical and provide moral guidance regarding the topic. If appropriate, weave in a practical application and evangelistic element into the message, but don't force it if there is no natural fit. 
+
+Provide at least one, but not more than two, illustrations to convey the meaning. If you use one of these, be sure to weave it seamlessly into the lesson. It must not feel disjointed. 
+
+The <lesson verse> must be taken from the book of Proberbs or Ecclesiastes in the ESV.
+
+
+<page structure>
+Title
+
+Weekly Memory Verse: <verse/verses in ESV>
+Lesson Verse:<lesson verse>
+
+<lesson>
+
+Hymn 
+<hymn title>
+
+Prayer Points
+• <point 1>
+• <point N>
+</page structure>
+
+# Formatting
+- Use markup
+- Title must be heading 2
+- "Weekly Memory Verse" must be bold followed by non-bold verse
+- "Lesson Verse" must be bold followed by non-bold verse
+- "Hymn" must must be bold followed by non-bold hymn title
+- "Prayer Points" must must be bold followed by non-bold prayer points
+
+# Verse Format Examples
+Weekly Memory Verse: "Fear God and keep his commandments." (Eccl 12:9-14)
+Lesson Verse: "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight." (John 1:1)

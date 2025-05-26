@@ -1,0 +1,125 @@
+# Week 3: Trusting God
+**Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+## Day 1: Are There More Gods Than One?
+
+**Weekly Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+**Question**: Are there more gods than one?
+**Answer**: There is only one God.
+
+How many gods are there? Is there only one God, or are there many? Long ago, people would make statues out of wood or stone and call them gods. They would pray to these statues, hoping these pretend gods would help them. But these statues couldn't do anything at all! They couldn't hear prayers, they couldn't help people, and they couldn't even move by themselves.
+
+Our God is completely different. He created everything in the universe - the sun, moon, stars, mountains, oceans, animals, and every person. Nothing is too hard for Him! When Moses asked God what His name was, God said, "I AM WHO I AM." This special name tells us that God has always existed and always will exist. He doesn't need anyone to create Him or help Him.
+
+Think about a lighthouse standing tall on a rocky shore. At night, ships sailing on the dark ocean look for the lighthouse's bright beam to guide them safely to shore. If there were many lights shining in different directions, the sailors would become confused and might crash their ships on the rocks. In the same way, God is our one true light, guiding us on the right path through life.
+
+The prophet Elijah once had a contest with 450 prophets who worshipped a false god named Baal. Both sides built altars and prayed for fire to come down from heaven to burn their sacrifices. The prophets of Baal danced, shouted, and even cut themselves, but nothing happened because Baal wasn't real. When Elijah prayed to the one true God, fire immediately came down and burned up his sacrifice, showing everyone who the real God is!
+
+Because there is only one God, we can trust Him completely. We don't need to worry about pleasing many different gods or wonder which one is most powerful. Our God is the only God, and He loves us very much.
+
+**Hymn**: Our God, Our Help in Ages Past
+
+**Prayer Points**:
+• Thank God for being the one true God
+• Ask God to help us worship only Him
+• Pray for people around the world who don't know the true God
+
+## Day 2: Faith
+
+**Weekly Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+**Lesson Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+Have you ever been pushed on a swing by your mom or dad? When they push you higher and higher, you trust that they won't push too hard and that they'll catch you if needed. You can't see them when you swing forward, but you know they're right there behind you. You trust them because you know they love you and want to keep you safe.
+
+Trusting God is a bit like that. We can't see God with our eyes, and sometimes we don't understand why certain things happen. But God asks us to trust Him with our whole heart. He knows everything - the past, present, and future. He sees the big picture that we can't see.
+
+The Bible tells us not to "lean on our own understanding." This means we shouldn't rely only on what we think we know. Our understanding is limited, like looking through a keyhole - we only see a tiny part of what's really there. But God sees everything, and His wisdom is perfect.
+
+One night, Jesus' disciples were in a boat during a terrible storm. The waves crashed against their boat, and they were afraid. Suddenly, they saw Jesus walking on the water toward them! Peter called out, "Lord, if it's really you, tell me to come to you on the water." Jesus simply said, "Come." When Peter kept his eyes on Jesus, he actually walked on top of the water! But when he looked at the big waves around him, he became afraid and started to sink. Jesus reached out His hand and caught Peter saying, "You of little faith, why did you doubt?" Peter trusted Jesus enough to step out of the boat, but then his trust wavered when he focused on the storm instead of Jesus.
+
+Trusting God isn't always easy. Sometimes we feel afraid or confused. But when we choose to trust God despite our feelings, our faith grows stronger. We learn that God is faithful and His plans for us are good, even when we don't understand them.
+
+**Hymn**: 'Tis So Sweet to Trust in Jesus
+
+**Prayer Points**:
+• Ask God to help us trust Him when we're afraid
+• Thank God for His perfect wisdom and knowledge
+• Pray for strength to follow God even when it's difficult
+
+## Day 3: How Many Persons Are There in God?
+
+**Weekly Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+**Question**: How many persons are there in God?
+**Answer**: There are three persons in God: the Father, the Son, and the Holy Spirit.
+
+God is amazing and unlike anything else in all of creation. While there is only one God, He exists as three persons: the Father, the Son (Jesus), and the Holy Spirit. We call this the Trinity. It's one of God's greatest mysteries, and even grown-ups find it hard to understand completely!
+
+Let's think about water. Water can exist in three different forms: liquid water, solid ice, and steam vapor. It's still water in all three forms, but it appears and acts differently in each form. God is somewhat like that, but even more amazing - He is one God in three persons, all at the same time.
+
+When Jesus was baptized, all three persons of the Trinity were present. Jesus (the Son) was in the water, the Holy Spirit came down like a dove, and God the Father spoke from heaven saying, "This is my beloved Son, with whom I am well pleased." Isn't that wonderful? All three persons of God were there, showing us that they work together in perfect harmony.
+
+Each person of the Trinity has special roles. God the Father created the world and watches over everything. God the Son (Jesus) came to earth as a human being to save us from our sins by dying on the cross and rising again. God the Holy Spirit lives inside believers, helping us understand God's Word and giving us power to live for God.
+
+The Trinity also shows us that God has always been a God of love. Even before He created the world, love existed between the Father, Son, and Holy Spirit. When we love others, we're reflecting what God is like.
+
+Even though the Trinity is hard to understand fully, we can trust that God has revealed this truth about Himself in the Bible because He wants us to know Him better.
+
+**Hymn**: Come, Thou Almighty King
+
+**Prayer Points**:
+• Thank God the Father for creating and caring for us
+• Thank Jesus for coming to save us
+• Ask the Holy Spirit to help us live for God
+
+## Day 4: Trustworthy
+
+**Weekly Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+**Lesson Verse**: "And those who know your name put their trust in you, for you, O Lord, have not forsaken those who seek you." (Psalm 9:10)
+
+When someone makes a promise to you, how do you know if they'll keep it? Maybe they've kept their promises before, or maybe they're known for being honest and reliable. When we say God is trustworthy, we mean that He always keeps His promises and never lets us down.
+
+Throughout the Bible, God made many promises to His people, and He kept every single one. He promised Abraham that he would have as many descendants as the stars in the sky, even though Abraham was very old and had no children. Years later, Abraham's wife Sarah had a baby boy named Isaac, just as God had promised.
+
+God also promised to send a Savior to rescue people from sin. For hundreds of years, God's people waited and watched. Finally, at exactly the right time, Jesus was born in Bethlehem. God kept His promise perfectly!
+
+Have you ever played a game where your dad or mom says "Jump and I'll catch you"? When they hold out their arms, you jump without worrying because you know they'll catch you every time. You wouldn't want to jump to someone who sometimes catches you and sometimes doesn't! In the same way, God is perfectly trustworthy in everything He does. We can put all our trust in His promises, just like you trust that your parents will catch you when they say they will.
+
+The amazing thing is that God doesn't just keep some promises or most promises - He keeps ALL His promises. In Joshua 21:45, the Bible says, "Not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass." God hasn't changed! He is still completely trustworthy today.
+
+Because God is trustworthy, we can bring all our worries, fears, and problems to Him. We can trust Him with our lives, our families, and our futures. Even when life feels scary or confusing, God remains steady and faithful. He will never abandon those who seek Him.
+
+**Hymn**: Great Is Thy Faithfulness
+
+**Prayer Points**:
+• Thank God for being completely trustworthy
+• Ask God to help us trust His promises even in difficult times
+• Pray that others would come to know God's trustworthiness
+
+## Day 5: Jim Elliot
+
+**Weekly Memory Verse**: "Trust in the LORD with all your heart, and do not lean on your own understanding." (Proverbs 3:5)
+
+Jim Elliot was a missionary who trusted God with his whole heart, even when it led him to a dangerous place. Born in 1927 in Portland, Oregon, Jim grew up learning about Jesus and decided to follow Him when he was young. As a teenager, Jim was strong and athletic. He was a champion wrestler and could have become famous in sports, but he had a different goal - to tell people about Jesus.
+
+While studying at Wheaton College, Jim felt God calling him to be a missionary to people who had never heard about Jesus. It was there that he met Elisabeth Howard, who shared his passion for missions. After college, Jim headed to Ecuador, a country in South America. Elisabeth followed later, and they were married in Quito, Ecuador, in 1953. Together, they began learning Spanish and preparing to reach a tribe called the Waodani (also known as the Auca), who lived deep in the Amazon rainforest.
+
+The Waodani were known to be very dangerous. They had attacked and killed many people who tried to enter their territory. But Jim and four other missionaries - Pete Fleming, Ed McCully, Nate Saint, and Roger Youderian - believed God wanted them to share Jesus' love with this tribe.
+
+At first, they flew over the Waodani villages in a small airplane, dropping gifts in baskets attached to long ropes. After several months of dropping gifts, they decided to try meeting the Waodani in person. They found a beach by a river and set up camp, calling it "Palm Beach." On January 6, 1956, several Waodani came to visit them. The missionaries were excited that their plan was working!
+
+But three days later, on January 8, all five missionaries were killed by Waodani warriors. Jim Elliot was only 28 years old. It seemed like their mission had failed. But God had a bigger plan.
+
+Jim's wife Elisabeth, along with Nate Saint's sister Rachel and the wife of another missionary, later went to live with the Waodani. Amazingly, many Waodani, including some who had killed the missionaries, became Christians after hearing about Jesus' love and forgiveness. The whole tribe changed from being violent to peaceful.
+
+Jim Elliot once wrote in his journal, "He is no fool who gives what he cannot keep to gain what he cannot lose." He meant that it's wise to give up things in this life, even your life itself, to gain eternal rewards in heaven. Jim trusted God's plan completely, even though he couldn't see how everything would work out.
+
+**Hymn**: I Surrender All
+
+**Prayer Points**:
+• Thank God for Jim Elliot's example of complete trust
+• Ask God to help us be willing to follow Him wherever He leads
+• Pray for missionaries who are sharing Jesus with people who have never heard of Him 

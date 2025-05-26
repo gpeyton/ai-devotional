@@ -1,0 +1,9 @@
+backup/
+index/
+venv/
+wordcloud/
+3d*
+.DS_Store
+*Patent*
+*bak*
+*mesh*

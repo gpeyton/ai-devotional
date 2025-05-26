@@ -1,0 +1,129 @@
+# Week 4: God's Character
+**Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+## Day 1: What Is God?
+
+**Weekly Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+**Question**: What is God?
+**Answer**: God is a Spirit, infinite, eternal, and unchangeable.
+
+Take a deep breath. You can feel the air filling your lungs, but you can't see it. The wind can move leaves and bend trees, yet remains invisible. God is something like that—He is a Spirit. This means He doesn't have a body like we do. You can't touch Him or see Him with your eyes, but He is more real and powerful than anything else in the world!
+
+Just like we can't see the wind but feel its power and see its effects on the leaves, we know God is real even though He is an invisible Spirit. Think about music traveling through the air as invisible radio waves. You can't see the waves, but you know they are real because you hear the beautiful music they carry. Similarly, while we cannot see God with our eyes, we know He is real and present because we experience the wonderful things He does: the beauty of His creation, the truth in His Word, the love He shows us, and the way Jesus revealed Him perfectly. His invisible power holds everything together, and His unchanging love is something we can always rely on.
+
+Next, when we say God is infinite, we mean He has no limits. Think about the biggest number you can imagine. Now add one more—you can always go bigger, right? But even the biggest number you could ever think of doesn't come close to describing God's greatness. His love, His wisdom, His power—they have no boundaries or edges.
+
+God is also eternal. This means He never had a beginning and will never have an ending. It's hard to think that God was never made by anyone and will never stop being there! Everything we know—toys, trees, even mountains—had a starting point and will someday wear out. But God has always been and will always be.
+
+And unchangeable? That means God stays the same. He doesn't get better or worse, stronger or weaker, or change His mind about what is right and wrong. The same God who created the world is the same God who loves you today.
+
+Though we can't see God directly, we can see what He does—just like we can't see the wind but can see leaves dancing in the breeze. We can see His creativity in colorful sunsets, His power in mighty thunderstorms, and His gentleness in a tiny flower. His fingerprints are on all creation, revealing a God who is not only powerful and creative but also eternal and unchangingly faithful.
+
+**Hymn**: Immortal, Invisible, God Only Wise
+
+**Prayer Points**:
+• Thank God for being greater than anything we can imagine
+• Ask God to help us know Him better each day
+• Praise God for being unchangeable and always faithful
+
+## Day 2: Fear of the Lord
+
+**Weekly Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+**Lesson Verse**: "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight." (Proverbs 9:10)
+
+The word "fear" might make you think of being afraid, like when you hear a loud noise in the dark or see a scary dog. But "the fear of the LORD" is something different and wonderful. It means having deep respect and awe for God—understanding how great and powerful He is, while also knowing He loves you very much.
+
+When you visit a huge waterfall, you stand back in wonder at its power. You respect the mighty rushing water—you wouldn't jump in or treat it carelessly! That's a bit like fearing the Lord. You recognize His amazing power and holiness, and it fills you with wonder and respect.
+
+King Solomon, who was known as the wisest person who ever lived, wrote that fearing the Lord is "the beginning of wisdom." This means we can't truly be wise until we understand who God is and give Him the respect He deserves. When we fear the Lord, we start to see everything differently—we see the world through God's eyes.
+
+In the Bible, there's a story about a man named Isaiah who had a vision of God sitting on His throne. The heavenly beings around God were calling out, "Holy, holy, holy is the LORD of hosts!" Isaiah was so overwhelmed by God's holiness that he cried out, "Woe is me!" He suddenly understood how pure and perfect God is. But then God forgave Isaiah's sins and gave him an important job to do. Isaiah's fear of the Lord didn't make him run away—it prepared him to serve God better.
+
+When we have a proper fear of the Lord, we don't want to sin because we love God and don't want to disappoint Him. It's like how you try extra hard to follow the rules when you're with someone you greatly admire. You care what they think!
+
+The wonderful thing about fearing God is that it doesn't make us scared to approach Him. Instead, it helps us come to Him with the right attitude—humbly and respectfully, but also with confidence that He loves us and wants us to know Him.
+
+**Hymn**: Holy, Holy, Holy
+
+**Prayer Points**:
+• Ask God to give us a proper fear of the Lord
+• Thank God for being both wonderfully powerful and lovingly kind
+• Pray for wisdom to make good choices that please God
+
+## Day 3: Where Is God?
+
+**Weekly Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+**Question**: Where is God?
+**Answer**: God is everywhere.
+
+If you look out your window, you might see trees, houses, or the sky. You can point and say, "There's a bird!" or "There's our neighbor's house!" But can you point and say, "There's God!"? No, because God isn't just in one place—He is everywhere at the same time!
+
+This is called God's omnipresence, a big word that means God is present everywhere. Unlike us, God doesn't have to travel from one place to another. He doesn't have to fly in an airplane to cross the ocean or ride in a car to visit another city. He is fully present everywhere, all at once.
+
+King David wrote about this amazing truth in Psalm 139: "Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me."
+
+Think about playing hide-and-seek. When you hide, your friends can't see you. But no matter where you hide, God is already there! He sees you when you're playing outside, when you're sleeping in your bed, and even when you travel far away on vacation. 
+
+A missionary once traveled deep into the Amazon jungle to tell people about Jesus. He met a tribe who had never heard about God before. When he told them that God was there in the jungle with them, they were amazed. "How did He get here?" they asked. The missionary explained that God didn't have to "get" there—He was already there, just as He is everywhere else in the world.
+
+God's omnipresence is a great comfort to us. It means you're never alone. When you feel scared at night, God is there with you. When you're at school, God is there too. Even if you were to travel to the moon, God would be there! And no matter what problems you face, God is right there to help you.
+
+**Hymn**: He's Got the Whole World in His Hands
+
+**Prayer Points**:
+• Thank God for always being with us, no matter where we go
+• Ask God to help us remember His presence when we feel alone
+• Praise God for being so much greater than we can imagine
+
+## Day 4: Spirit
+
+**Weekly Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+**Lesson Verse**: "God is spirit, and those who worship him must worship in spirit and truth." (John 4:24)
+
+When Jesus met a woman at a well in Samaria, she asked Him about the right place to worship God. Should it be on a special mountain or in Jerusalem? Jesus gave her an amazing answer. He said, "God is spirit, and those who worship him must worship in spirit and truth." What did Jesus mean by saying "God is spirit"?
+
+To be a spirit means that God doesn't have a physical body with hands and feet like we do. You can't take a photograph of God or give Him a high five. But even though we can't see Him with our eyes, God is more real and powerful than anything we can see or touch.
+
+Imagine the wind blowing through the trees. You can't see the wind itself, but you can see what it does—leaves dancing, branches swaying, kites flying high in the sky. In a similar way, we can't see God, but we can see what He does in the world and in our lives. We can see the beautiful world He created, the people He loves, and the ways He helps and guides us.
+
+Sometimes people make statues or pictures and say, "This is what God looks like." But since God is spirit, no statue or picture can truly show Him. That's one reason why God told His people not to make idols or images of Him. He didn't want them to think He was limited to looking like a statue made of stone or wood.
+
+Being spirit also means that God isn't limited by physical things like we are. We need to eat, sleep, and rest, but God doesn't. We can only be in one place at a time, but God is everywhere. We grow older and our bodies change, but God never changes. And while our bodies will eventually wear out, God is eternal.
+
+Jesus taught that because God is spirit, we must worship Him "in spirit and truth." This means that true worship isn't just about going to a special building or saying special words. It's about loving God with our whole heart and connecting with Him from deep inside us—our spirit connecting with His Spirit. And it means worshiping Him according to the truth He has revealed in His Word.
+
+**Hymn**: Spirit of the Living God
+
+**Prayer Points**:
+• Thank God for being spirit and not limited like we are
+• Ask God to help us worship Him in spirit and truth
+• Pray that we would recognize God's work in our lives even though we can't see Him
+
+## Day 5: C.S. Lewis
+
+**Weekly Memory Verse**: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!" (Isaiah 6:3)
+
+Clive Staples Lewis—known to most people as C.S. Lewis—didn't always believe in God. Born in Belfast, Ireland, in 1898, young Jack (as his family called him) grew up in a Christian home. But after his mother died when he was only nine years old, Lewis became angry with God and decided not to believe in Him anymore.
+
+Lewis loved to read books and had a wonderful imagination. He went to good schools and became very smart, eventually becoming a professor at Oxford University in England. But even though he was intelligent, he still didn't believe in God. He thought religion was just made-up stories.
+
+Then something began to change. Lewis started reading books by Christian authors and talking with his good friend J.R.R. Tolkien (who wrote "The Hobbit" and "The Lord of the Rings"). Lewis realized that the story of Jesus wasn't just another made-up tale—it was a "true myth," a story that actually happened in history. One day, while riding to the zoo on the top level of a bus, Lewis finally decided to accept that God was real and to give his life to Jesus.
+
+After becoming a Christian, Lewis wrote many books to help others understand God. One of his most famous works is "The Chronicles of Narnia," a series of seven books about a magical land called Narnia. In these stories, children from our world have adventures in Narnia, where they meet a great lion named Aslan who created and rules over Narnia. Aslan represents Jesus in our world.
+
+When Lewis wrote about Aslan, he helped children (and grown-ups too!) understand more about God's character. Through Aslan, readers learn that God is powerful but good, mighty but gentle, someone to be respected but also someone who loves us deeply. In "The Lion, the Witch and the Wardrobe," Aslan even gives his life to save a boy named Edmund who had done wrong, just like Jesus gave His life to save us.
+
+Lewis was also known for his clear explanations of Christian beliefs. He could take complicated ideas and explain them in ways that made sense to ordinary people. He once said, "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else." Lewis meant that knowing God helps us understand everything else in life more clearly.
+
+Until his death in 1963, Lewis continued writing books that have helped millions of people better understand who God is and how much He loves them.
+
+**Hymn**: Be Thou My Vision
+
+**Prayer Points**:
+• Thank God for using C.S. Lewis to help many people understand Him better
+• Ask God to help us use our talents and gifts to serve Him
+• Pray that we would see God's truth in the stories we read and the world around us 

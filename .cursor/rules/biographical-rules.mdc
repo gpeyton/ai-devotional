@@ -1,0 +1,42 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Page Structure
+The following structure must be followed when drafting the page. 
+
+# Content
+Highlight key points in the life of the person, why they were influencial or impactful Christians in God's Kingdom. The text must flow naturally between paragraphs. Draw out appropriate lessons if appropriate. Ensure that your lesson is historically accurate - do not hallucinate details. Structure the story in an engaging, gripping manner that holds children's attention. And if fitting, include humorous accounts if appropriate. Do not make up fake stories. The tone must be engaging and exciting where appropriate to draw the reader in. 
+
+Tone must be appropriate to ages 3-7 but not condescending. Focus on the key historical details of the person's life, not generic details. 
+
+<page structure>
+Title
+
+Weekly Memory Verse: <verse/verses in ESV>
+
+<lesson>
+
+Hymn 
+<hymn title>
+
+Prayer Points
+• <point 1>
+• <point N>
+</page structure>
+
+# Formatting
+- Use markup
+- Title must be heading 2
+- "Weekly Memory Verse" must be bold followed by non-bold verse
+- "Lesson Verse" must be bold followed by non-bold verse
+- "Hymn" must must be bold followed by non-bold hymn title
+- "Prayer Points" must must be bold followed by non-bold prayer points
+
+# Verse Format Examples
+Weekly Memory Verse: "In the beginning, God created the heavens and the earth." (Gen 1:1)
+Lesson Verse: "In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1)
+
+
+
