@@ -99,19 +99,21 @@ But here's the amazing part of the story: the same verse that tells us about ear
 
 **Weekly Memory Verse**: "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." (Romans 6:23)
 
-In colonial America, there lived a pastor named Jonathan Edwards who understood both the seriousness of sin and the greatness of God's salvation better than almost anyone. Jonathan was born in 1703 in Connecticut, and even as a young boy, he loved to study and think deeply about God. He was so smart that he entered Yale College when he was only thirteen years old!
+In colonial America, there lived one of the most important pastors in American history - Jonathan Edwards. Born in 1703 in Connecticut, Jonathan was incredibly smart from a young age. He loved to study everything, from tiny spiders to big ideas about God. He was so brilliant that he entered Yale College when he was only thirteen years old!
 
-Jonathan became a pastor and was known for preaching sermons that helped people understand important truths about God. His most famous sermon was called "Sinners in the Hands of an Angry God." In this sermon, Jonathan explained how serious sin really is and how much we all deserve God's judgment. He wanted people to understand that without God's mercy, we would all face the consequences of our rebellion against Him.
+Jonathan became a pastor and one of America's greatest preachers and thinkers. He was the leader of something called the Great Awakening, a time when thousands of people across the American colonies came to know Jesus for the first time. Jonathan's powerful preaching helped start this amazing movement where entire towns and cities turned to God. Churches that had been nearly empty suddenly filled with people eager to learn about Jesus.
 
-Some people today think Jonathan was too harsh when he preached about God's wrath against sin. But Jonathan wasn't trying to scare people just to be mean. He was like a doctor who tells a patient the truth about a serious illness - not to be cruel, but because understanding the problem is the first step toward finding the cure. Jonathan knew that people needed to understand how serious sin is before they could appreciate how wonderful God's salvation is.
+What made Jonathan so special was how he could explain deep truths about God in ways that ordinary people could understand. He wrote many important books that helped people think more clearly about who God is and how much He loves us. Even today, almost 300 years later, pastors and teachers still read Jonathan's writings to learn how to explain God's truth better.
 
-But Jonathan didn't just preach about God's wrath. He also preached powerfully about God's amazing love and grace. He helped people understand that even though we deserve punishment for our sins, God offers us the free gift of eternal life through Jesus Christ. During Jonathan's ministry, thousands of people came to understand their need for salvation and trusted in Jesus.
+Jonathan was also a loving family man. He and his wife Sarah had eleven children, and he made sure to teach each one about God's love. Amazingly, Jonathan's family produced many famous Americans - including a future vice president! Many of his children and grandchildren became pastors, teachers, and leaders who continued to serve God and help others.
 
-Jonathan Edwards' life reminds us of the truth in our memory verse. He helped people see that "the wages of sin is death" - we really do deserve punishment for our disobedience to God. But he also helped them discover the wonderful news that God offers us "the free gift of eternal life in Christ Jesus our Lord." Understanding both parts of this verse - the bad news and the good news - helps us appreciate God's salvation even more.
+Later in life, Jonathan became the president of Princeton College (now Princeton University), but sadly, he died just a few weeks after starting this new job. He had received a smallpox vaccination, which was very new at that time, but it made him sick and he went to be with Jesus in 1758.
+
+Jonathan Edwards is remembered as one of the most important Christian leaders in American history because he helped so many people understand the Bible and come to know Jesus. He showed that you can be very smart and still have a simple, childlike faith in God. His life reminds us that God can use anyone - even a young person who loves to study - to do great things for His kingdom.
 
 **Hymn**: Before the Throne of God Above
 
 **Prayer Points**:
-• Thank God for pastors like Jonathan Edwards who taught the truth
-• Ask God to help us understand both the seriousness of sin and the greatness of salvation
-• Praise God for offering eternal life as a free gift through Jesus 
+• Thank God for people like Jonathan Edwards who devoted their lives to serving Him
+• Ask God to help us see His goodness in the world around us like Jonathan did
+• Pray that we would love God with our whole heart, mind, and strength 
