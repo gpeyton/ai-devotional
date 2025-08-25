@@ -9,10 +9,15 @@ class DevotionalApp {
   }
 
   init() {
+    console.log('Initializing DevotionalApp...');
     this.loadWeeksData();
+    console.log('Weeks data loaded');
     this.setupEventListeners();
+    console.log('Event listeners setup');
     this.renderSidebarNav();
+    console.log('Sidebar navigation rendered');
     this.showHome();
+    console.log('Home page shown');
   }
 
   // Load weeks data based on the quarterly plan structure
@@ -187,10 +192,17 @@ class DevotionalApp {
 
   // Render sidebar navigation
   renderSidebarNav() {
+    console.log('Rendering sidebar navigation...');
     const container = document.getElementById('weeksNav');
-    if (!container) return;
+    console.log('Container found:', container);
+    console.log('Weeks data:', this.weeks.length, 'weeks');
+    
+    if (!container) {
+      console.error('weeksNav container not found!');
+      return;
+    }
 
-    container.innerHTML = this.weeks.map(week => `
+    const html = this.weeks.map(week => `
       <div class="week-nav-item" data-week="${week.number}" onclick="devotionalApp.toggleWeekNav(${week.number})">
         <div class="week-title-nav">Week ${week.number}: ${week.title}</div>
         <div class="week-days">
@@ -202,6 +214,10 @@ class DevotionalApp {
         </div>
       </div>
     `).join('');
+    
+    console.log('Generated HTML length:', html.length);
+    container.innerHTML = html;
+    console.log('Sidebar navigation rendered successfully');
   }
 
   // Toggle week in sidebar navigation
