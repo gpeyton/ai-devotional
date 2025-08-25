@@ -239,24 +239,168 @@ class DevotionalApp {
   showHome() {
     const homeContent = document.getElementById('homeContent');
     const dynamicContent = document.getElementById('dynamicContent');
+    const indexContent = document.getElementById('indexContent');
+    const categoryContent = document.getElementById('categoryContent');
     
-    if (homeContent && dynamicContent) {
+    if (homeContent) {
       homeContent.style.display = 'block';
-      dynamicContent.style.display = 'none';
+      if (dynamicContent) dynamicContent.style.display = 'none';
+      if (indexContent) indexContent.style.display = 'none';
+      if (categoryContent) categoryContent.style.display = 'none';
+      
       this.isShowingHome = true;
       this.currentWeek = null;
       this.currentDay = null;
       
-      // Update home button state
+      // Update navigation button states
       const homeButton = document.querySelector('.home-button');
-      if (homeButton) {
-        homeButton.classList.add('active');
-      }
+      const indexButton = document.querySelector('.index-button');
+      if (homeButton) homeButton.classList.add('active');
+      if (indexButton) indexButton.classList.remove('active');
       
       // Clear week selection
       document.querySelectorAll('.week-nav-item').forEach(item => {
         item.classList.remove('active');
       });
+    }
+  }
+
+  // Show index page
+  showIndex() {
+    const homeContent = document.getElementById('homeContent');
+    const dynamicContent = document.getElementById('dynamicContent');
+    const indexContent = document.getElementById('indexContent');
+    const categoryContent = document.getElementById('categoryContent');
+    
+    if (indexContent) {
+      if (homeContent) homeContent.style.display = 'none';
+      if (dynamicContent) dynamicContent.style.display = 'none';
+      indexContent.style.display = 'block';
+      if (categoryContent) categoryContent.style.display = 'none';
+      
+      this.isShowingHome = false;
+      this.currentWeek = null;
+      this.currentDay = null;
+      
+      // Update navigation button states
+      const homeButton = document.querySelector('.home-button');
+      const indexButton = document.querySelector('.index-button');
+      if (homeButton) homeButton.classList.remove('active');
+      if (indexButton) indexButton.classList.add('active');
+      
+      // Clear week selection
+      document.querySelectorAll('.week-nav-item').forEach(item => {
+        item.classList.remove('active');
+      });
+    }
+  }
+
+  // Show lesson category
+  showLessonCategory(category) {
+    const homeContent = document.getElementById('homeContent');
+    const dynamicContent = document.getElementById('dynamicContent');
+    const indexContent = document.getElementById('indexContent');
+    const categoryContent = document.getElementById('categoryContent');
+    
+    if (categoryContent) {
+      if (homeContent) homeContent.style.display = 'none';
+      if (dynamicContent) dynamicContent.style.display = 'none';
+      if (indexContent) indexContent.style.display = 'none';
+      categoryContent.style.display = 'block';
+      
+      this.isShowingHome = false;
+      this.currentWeek = null;
+      this.currentDay = null;
+      
+      // Update navigation button states
+      const homeButton = document.querySelector('.home-button');
+      const indexButton = document.querySelector('.index-button');
+      if (homeButton) homeButton.classList.remove('active');
+      if (indexButton) indexButton.classList.remove('active');
+      
+      // Clear week selection
+      document.querySelectorAll('.week-nav-item').forEach(item => {
+        item.classList.remove('active');
+      });
+      
+      // Generate category content
+      this.renderLessonCategory(category);
+    }
+  }
+
+  // Render lesson category page
+  renderLessonCategory(category) {
+    const categoryContent = document.getElementById('categoryContent');
+    if (!categoryContent) return;
+    
+    const lessons = this.getLessonsByCategory(category);
+    const categoryTitle = this.getCategoryTitle(category);
+    
+    categoryContent.innerHTML = `
+      <div class="category-page">
+        <div class="category-header">
+          <button class="back-button" onclick="devotionalApp.showIndex()">← Back to Index</button>
+          <h1>${categoryTitle}</h1>
+          <p>${lessons.length} lessons</p>
+        </div>
+        
+        <div class="lessons-list">
+          ${lessons.map(lesson => `
+            <div class="lesson-item" onclick="devotionalApp.loadDay(${lesson.week}, ${lesson.day})">
+              <div class="lesson-title">${lesson.title}</div>
+              <div class="lesson-meta">Week ${lesson.week}, Day ${lesson.day}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // Get lessons by category
+  getLessonsByCategory(category) {
+    const lessons = [];
+    
+    this.weeks.forEach(week => {
+      week.days.forEach(day => {
+        let matches = false;
+        
+        switch(category) {
+          case 'catechism':
+            matches = day.type === 'Catechism';
+            break;
+          case 'wisdom':
+            matches = day.type === 'Wisdom';
+            break;
+          case 'attributes':
+            matches = day.type === 'Attribute';
+            break;
+          case 'biographies':
+            matches = day.type === 'Biography';
+            break;
+        }
+        
+        if (matches) {
+          lessons.push({
+            week: week.number,
+            day: day.number,
+            title: day.title,
+            type: day.type
+          });
+        }
+      });
+    });
+    
+    return lessons;
+  }
+
+  // Get category title
+  getCategoryTitle(category) {
+    switch(category) {
+      case 'catechism': return 'Catechism Lessons';
+      case 'wisdom': return 'Wisdom Lessons';
+      case 'attributes': return 'God\'s Attributes';
+      case 'biographies': return 'Mini Biographies';
+      default: return 'Lessons';
     }
   }
 
@@ -268,9 +412,13 @@ class DevotionalApp {
 
     const homeContent = document.getElementById('homeContent');
     const dynamicContent = document.getElementById('dynamicContent');
+    const indexContent = document.getElementById('indexContent');
+    const categoryContent = document.getElementById('categoryContent');
     
-    if (homeContent && dynamicContent) {
-      homeContent.style.display = 'none';
+    if (dynamicContent) {
+      if (homeContent) homeContent.style.display = 'none';
+      if (indexContent) indexContent.style.display = 'none';
+      if (categoryContent) categoryContent.style.display = 'none';
       dynamicContent.style.display = 'block';
       
       // Update navigation states
