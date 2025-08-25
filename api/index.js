@@ -28,6 +28,7 @@ module.exports = (req, res) => {
   }
 
   // Construct the full path to the website files
+  // In Vercel, files are in the deployment root
   const fullPath = path.join(process.cwd(), 'website', filePath.substring(1));
   const extname = String(path.extname(fullPath)).toLowerCase();
   const contentType = mimeTypes[extname] || 'application/octet-stream';

@@ -568,7 +568,9 @@ class DevotionalApp {
 
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
+  console.log('Devotional app initializing...');
   window.devotionalApp = new DevotionalApp();
+  console.log('Devotional app initialized:', window.devotionalApp);
 });
 
 // Service worker registration for offline capability (optional enhancement)
