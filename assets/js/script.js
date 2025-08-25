@@ -335,7 +335,6 @@ class DevotionalApp {
     
     const lessons = this.getLessonsByCategory(category);
     const categoryTitle = this.getCategoryTitle(category);
-    const categoryIcon = this.getCategoryIcon(category);
     
     categoryContent.innerHTML = `
       <div class="category-page">
@@ -345,7 +344,6 @@ class DevotionalApp {
             <span class="back-text">Back to Index</span>
           </button>
           <div class="category-page-title">
-            <span class="category-page-icon">${categoryIcon}</span>
             <h1 class="page-title">${categoryTitle}</h1>
           </div>
           <p class="page-subtitle">${lessons.length} lessons available</p>
@@ -414,16 +412,6 @@ class DevotionalApp {
     }
   }
 
-  // Get category icon
-  getCategoryIcon(category) {
-    switch(category) {
-      case 'catechism': return '📖';
-      case 'wisdom': return '💡';
-      case 'attributes': return '✨';
-      case 'biographies': return '👥';
-      default: return '📚';
-    }
-  }
 
   // Load day content
   async loadDay(weekNumber, dayNumber) {
