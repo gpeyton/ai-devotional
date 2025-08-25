@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Children's Daily Devotional - Growing in Faith</title>
+    <meta name="description" content="A daily devotional designed for children ages 3-5, helping families grow in faith together through Bible stories, catechism questions, and inspirational biographies.">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Mobile Header -->
+    <header class="mobile-header">
+        <div class="mobile-header-content">
+            <button class="sidebar-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="mobile-logo">
+                <h1>Growing in Faith</h1>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <h1 class="logo-text">Growing in Faith</h1>
+                <p class="logo-subtitle">Daily Devotions for Little Hearts</p>
+            </div>
+            <button class="sidebar-close" aria-label="Close navigation">×</button>
+        </div>
+        
+        <nav class="sidebar-nav">
+            <div class="nav-section">
+                <button class="nav-item home-button" onclick="devotionalApp.showHome()">
+                    <span class="nav-text">Home</span>
+                </button>
+            </div>
+            
+            <div class="nav-section">
+                <div class="nav-section-title">Weekly Devotions</div>
+                <div class="weeks-nav" id="weeksNav">
+                    <!-- Week navigation will be populated by JavaScript -->
+                </div>
+            </div>
+        </nav>
+    </aside>
+
+    <!-- Sidebar Overlay -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- Main Content Area -->
+    <main id="mainContent" class="main-content">
+        <div class="content-container">
+            <!-- Home Page Content -->
+            <div id="homeContent" class="home-content">
+                <div class="hero-section">
+                    <div class="hero-text">
+                        <h1 class="hero-title">Foundations of Faith</h1>
+                        <p class="hero-description">
+                            This website contains a year-long devotional guide for children ages 3-8 years old. 
+                            It helps parents cover a wide variety of Biblical topics, and also introduce children 
+                            to the great hymns and heroes of the faith.
+                        </p>
+                        <div class="bible-verse">
+                            <p>"...bring them up in the discipline and instruction of the Lord" - Eph 6:4</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="program-overview">
+                    <h2 class="section-title">One Year • Four Pillars • Five Days</h2>
+                    
+                    <div class="program-stats">
+                        <div class="stat-card">
+                            <div class="stat-number">104</div>
+                            <div class="stat-label">Catechism Lessons</div>
+                            <div class="stat-description">Westminster Shorter Catechism questions and answers.</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">52</div>
+                            <div class="stat-label">Wisdom Lessons</div>
+                            <div class="stat-description">Practical life lessons from the Book of Proverbs</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">52</div>
+                            <div class="stat-label">Character Studies</div>
+                            <div class="stat-description">Learn about God's wonderful attributes</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">52</div>
+                            <div class="stat-label">Mini Biographies</div>
+                            <div class="stat-description">Stories of faithful Christians throughout history</div>
+                        </div>
+                    </div>
+
+                    <div class="weekly-pattern">
+                        <h3>How Each Week is Structured</h3>
+                        <p class="pattern-subtitle">5 days worth of contents spread across the following categories:</p>
+                        <div class="pattern-grid">
+                            <div class="pattern-day">
+                                <div class="day-circle">1</div>
+                                <div class="pattern-day-content">
+                                    <h4>Shorter Catechism (day 1)</h4>
+                                </div>
+                            </div>
+                            <div class="pattern-day">
+                                <div class="day-circle">2</div>
+                                <div class="pattern-day-content">
+                                    <h4>Wisdom Lesson from Proverbs</h4>
+                                </div>
+                            </div>
+                            <div class="pattern-day">
+                                <div class="day-circle">3</div>
+                                <div class="pattern-day-content">
+                                    <h4>Catechism Question (day 2)</h4>
+                                </div>
+                            </div>
+                            <div class="pattern-day">
+                                <div class="day-circle">4</div>
+                                <div class="pattern-day-content">
+                                    <h4>God's Attributes</h4>
+                                </div>
+                            </div>
+                            <div class="pattern-day">
+                                <div class="day-circle">5</div>
+                                <div class="pattern-day-content">
+                                    <h4>Mini Biography</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="pattern-note">
+                            Each week includes a <strong>memory verse</strong> and daily <strong>hymns</strong> 
+                            for family worship time.
+                        </p>
+                    </div>
+
+                    <div class="getting-started">
+                        <h3>How to Use This Devotional</h3>
+                        <div class="steps-grid">
+                            <div class="step">
+                                <div class="step-number">1</div>
+                                <div class="step-content">
+                                    <h4>Choose Your Week</h4>
+                                    <p>Select a week from the navigation panel or start with Week 1.</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">2</div>
+                                <div class="step-content">
+                                    <h4>Read Together</h4>
+                                    <p>Spend 5-10 minutes each day reading the lesson with your child.</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">3</div>
+                                <div class="step-content">
+                                    <h4>Discuss & Pray</h4>
+                                    <p>Talk about the lesson and pray using the guided prayer points.</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">4</div>
+                                <div class="step-content">
+                                    <h4>Sing & Worship</h4>
+                                    <p>End with the suggested hymn for family worship time.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="start-journey">
+                        <button class="btn btn-primary btn-large" onclick="devotionalApp.loadDay(1, 1)">
+                            Begin Your Journey →
+                        </button>
+                        <p class="start-note">Start with Week 1, Day 1: "Who Made You?"</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dynamic Content Area -->
+            <div id="dynamicContent" class="dynamic-content" style="display: none;">
+                <!-- Day content will be loaded here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Growing in Faith</h3>
+                    <p>Daily devotions designed to help families grow together in their love for God and His Word.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="#about">About This Devotional</a></li>
+                        <li><a href="#devotions">All Devotions</a></li>
+                        <li><a href="#home">Getting Started</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Based On</h4>
+                    <ul>
+                        <li>Westminster Shorter Catechism</li>
+                        <li>Book of Proverbs</li>
+                        <li>Christian Biography</li>
+                        <li>Classic Hymns</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Growing in Faith Devotional. Designed for families seeking to grow together in faith.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/js/template-system.js?v=8"></script>
+    <script src="assets/js/script.js?v=8"></script>
+</body>
+</html>

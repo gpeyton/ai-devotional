@@ -1,0 +1,119 @@
+{
+  "week": {
+    "number": 6,
+    "title": "The Fall and Redemption",
+    "memoryVerse": "But God shows his love for us in that while we were still sinners, Christ died for us. (Romans 5:8)",
+    "days": [
+      {
+        "number": 1,
+        "title": "What Are God's Works of Providence?",
+        "type": "Catechism",
+        "hymn": "Guide Me, O Thou Great Jehovah",
+        "catechism": {
+          "questionNumber": 11,
+          "question": "What are God's works of providence?",
+          "answer": "God's works of providence are His most holy, wise, and powerful preserving and governing of all His creatures, and all their actions."
+        },
+        "content": [
+          "Imagine a skilled captain steering a large ship through stormy seas. The captain doesn't just set the ship sailing and hope for the best; he constantly watches the weather, checks the map, and makes adjustments to keep the ship safe and on course. God's providence is something like that, but infinitely greater! He didn't just create the world and then leave it to run on its own. He is actively involved in every detail, guiding and caring for everything He made.",
+          "The catechism answer uses three important words to describe God's providence: preserving, governing, and powerful. \"Preserving\" means God keeps everything going. He makes the sun rise each morning, sends the rain to help plants grow, and gives us the very breath we need to live. He holds the whole universe together!",
+          "\"Governing\" means God is in charge. He's like the wise and good king of the whole universe. He rules over big things, like the rise and fall of nations, and small things, like the sparrows that fly in the sky (Jesus said not even one sparrow falls to the ground without our Father knowing!). God directs everything according to His perfect plan, and His rule is always good and right. When we try to fight against His good rule or ignore His loving guidance, that's when we sin. It's like telling the good King we know better than Him! Our memory verse shows us something wonderful though – even when we were sinners who disobeyed God, He still loved us so much that Christ died for us.",
+          "And He does this with \"power.\" Nothing is too hard for God. He is strong enough to control the mightiest storms and gentle enough to care for the smallest flower. His power is guided by His holiness and wisdom, meaning He always does what is right and best. Even when things seem confusing or difficult, we can trust His plan. Trusting His loving rule helps us live in a way that honors Him, but when we disobey or distrust Him, we fall short of the wonderful way He made us to live."
+        ],
+        "prayerPoints": [
+          "Thank God for preserving and governing His creation",
+          "Ask God for wisdom to trust His plan and obey His good rule",
+          "Praise God for His holy, wise, and powerful care over all things"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Sorrow",
+        "type": "Wisdom",
+        "hymn": "Rock of Ages, Cleft for Me",
+        "lessonVerse": "Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death. (2 Corinthians 7:10)",
+        "content": [
+          "Sometimes when we do something wrong, we feel sorry afterward. Maybe you took a toy from your brother without asking, or you didn't listen when Mom called you for dinner. Feeling sorry can be good, but did you know there are two different ways to feel sorry? The Bible calls them \"worldly sorrow\" and \"godly sorrow.\"",
+          "Let's say you took that toy from your brother and got in trouble. If you feel sad mainly because you got caught or because you lost your playtime, that's \"worldly sorrow.\" You're mostly upset about what happened to you. But this kind of sorry feeling doesn't really help fix things or make your heart better.",
+          "\"Godly sorrow\" is different. With the same example, godly sorrow means feeling sad because you know you hurt your brother and disappointed your parents who love you. You feel bad because you did something wrong, not just because you got in trouble. This kind of sorrow helps you want to say \"I'm sorry\" and do better next time. The Bible says godly sorrow \"brings repentance\" – that means it helps us turn away from doing wrong and want to do what's right instead.",
+          "When we do wrong things against God (the Bible calls this \"sin\"), godly sorrow means we feel sad because we know we've made our loving Heavenly Father unhappy. This good kind of sadness helps us turn away from the wrong things and back to God. And the wonderful news is that God forgives us and makes everything right again through Jesus, our Savior!"
+        ],
+        "prayerPoints": [
+          "Ask God to help us feel godly sorrow when we sin",
+          "Thank God for the gift of repentance and forgiveness through Jesus",
+          "Pray for a heart that truly hates sin because it displeases God"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "What Special Act of Providence Did God Exercise Toward Man?",
+        "type": "Catechism",
+        "hymn": "O Sacred Head, Now Wounded",
+        "catechism": {
+          "questionNumber": 12,
+          "question": "What special act of providence did God exercise toward man?",
+          "answer": "When God created man, He made a covenant of life with him, upon condition of perfect obedience."
+        },
+        "content": [
+          "We learned that God's providence means He lovingly takes care of everything He made. When God created Adam, the very first person, He made a special promise with him.",
+          "The catechism calls this a \"covenant of life.\" A covenant is like a very important promise with rules. God, the great King, made this special agreement with Adam.",
+          "What was this agreement? God promised Adam wonderful life with Him. God put Adam in the beautiful Garden of Eden and gave him just one rule to follow: \"You can eat fruit from all the trees, but do not eat from the tree of the knowledge of good and evil.\" God promised that if Adam obeyed this one rule perfectly, he could live happily with God in the garden forever.",
+          "This wasn't a hard or unfair rule. God had already given Adam everything he could possibly need – a perfect home, lots of good food from other trees, important work to do, and even a friend, Eve. God just wanted Adam to show his love and trust by obeying this one simple command.",
+          "This special agreement showed how good God was, offering Adam such a wonderful life. It also showed that God is perfectly good and requires His people to trust and obey Him.",
+          "Sadly, as we know, Adam didn't keep his side of the agreement. He disobeyed God's clear command, and as a result, sin and death came into the world. Understanding this original agreement helps us understand why sin is so serious and why we desperately need Jesus to make things right with God again."
+        ],
+        "prayerPoints": [
+          "Thank God for wanting to live happily with people",
+          "Help us understand the importance of trusting and obeying God",
+          "Thank God for sending Jesus when Adam disobeyed"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Savior",
+        "type": "Attribute",
+        "hymn": "Jesus, Lover of My Soul",
+        "attribute": "Savior",
+        "lessonVerse": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. (John 3:16)",
+        "content": [
+          "The Bible tells us some bad news: \"all have sinned and fall short of the glory of God\" (Romans 3:23). Because of Adam's disobedience (which we discussed yesterday) and our own choices, everyone has missed the mark of God's perfection. Sin separates us from our holy God.",
+          "But God didn't leave us in that hopeless situation! Our lesson verse today, perhaps the most famous verse in the Bible, tells us the incredibly good news. It reveals God's amazing attribute: He is a Savior.",
+          "A savior is someone who rescues others from danger or harm. Imagine someone lost deep in a forest or stuck somewhere they can't get out of – they need someone to find them and rescue them. Spiritually, all people are trapped by sin and face God's just punishment. We need someone to rescue us, to save us from our sins and bring us back to God.",
+          "John 3:16 tells us *why* God became our Savior: \"For God so loved the world.\" His motivation was pure, undeserved love for lost and sinful people. It wasn't because we were good or deserved saving, but simply because He is loving.",
+          "It tells us *what* God did: \"He gave his only Son.\" Saving us cost God dearly. He sent His own Son, Jesus, into the world. Jesus lived a perfect life (fulfilling the perfect obedience Adam failed to provide) and then died on the cross, taking the punishment our sins deserved.",
+          "And it tells us *how* we receive this salvation: \"that whoever believes in him should not perish but have eternal life.\" Salvation isn't something we earn; it's a gift received by faith, by trusting in Jesus alone. Believing in Him means turning from our sin and relying completely on His sacrifice to make us right with God. When we do that, God saves us from perishing (facing eternal separation from Him) and gives us eternal life (living forever with Him).",
+          "God's attribute as Savior is the heart of the gospel message. He didn't just create us; He loved us enough to rescue us when we fell."
+        ],
+        "prayerPoints": [
+          "Thank God for loving the world so much",
+          "Praise Jesus for being our willing Savior who died for us",
+          "Pray for faith to believe in Jesus and receive eternal life"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "John Newton",
+        "type": "Biography",
+        "hymn": "Amazing Grace",
+        "person": {
+          "name": "John Newton",
+          "dates": "1725-1807",
+          "description": "Former slave trader transformed by God's amazing grace into a pastor"
+        },
+        "content": [
+          "If anyone understood needing a Savior, it was John Newton. He was born in London, England, in 1725. His mother, who loved God, died when he was only six years old. John went to work as a sailor on ships with his father when he was only eleven. He lived a wild life and didn't follow God.",
+          "As a young man, Newton became involved in the terrible slave trade. He worked on ships that sailed to Africa and captured people. These captured people were then sold as slaves. Slaves were people who were stolen from their homes, weren't free, and were forced to work very hard for others without any pay. Newton's ships transported these people under terrible conditions to be sold in the Americas. During this time, Newton was known for being a wicked sailor, using bad language and living a sinful life. Even he later described himself as a \"wretch.\"",
+          "But God, in His amazing providence, had not forgotten John Newton. One night in 1748, the ship Newton was on was caught in a violent storm in the Atlantic Ocean. The ship was badly damaged, and it seemed certain they would sink. Facing death, and with crashing waves and roaring wind around him, Newton cried out to God for mercy. Miraculously, the storm calmed, and the ship survived. That night marked the beginning of Newton's journey back to God.",
+          "It took time, but God gradually changed Newton's heart. He left the slave trade, horrified by its evil, and eventually became a pastor in the Church of England. He spent the rest of his long life telling people about the amazing grace of God that could save even a sinner like him.",
+          "Pastor Newton wrote many hymns to help his congregation worship, and his most famous hymn is one we still sing today: \"Amazing Grace.\" Think about the words: \"Amazing grace! How sweet the sound, That saved a wretch like me! I once was lost, but now am found, Was blind, but now I see.\" Those words came from Newton's own experience. He knew he was lost in sin, but our memory verse tells us the wonderful truth – God shows His love for us by sending Christ to die for us while we were still sinners! God's amazing grace rescued Newton and opened his eyes to see the truth.",
+          "John Newton's life reminds us that no one is too sinful for God's grace to reach. Jesus came to be the Savior for sinners, offering forgiveness and new life to all who believe."
+        ],
+        "prayerPoints": [
+          "Thank God for the amazing grace that saves sinners",
+          "Praise God for changing John Newton's life so dramatically",
+          "Ask God to help us understand how much we need His salvation"
+        ]
+      }
+    ]
+  }
+}
