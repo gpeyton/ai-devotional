@@ -335,20 +335,30 @@ class DevotionalApp {
     
     const lessons = this.getLessonsByCategory(category);
     const categoryTitle = this.getCategoryTitle(category);
+    const categoryIcon = this.getCategoryIcon(category);
     
     categoryContent.innerHTML = `
       <div class="category-page">
-        <div class="category-header">
-          <button class="back-button" onclick="devotionalApp.showIndex()">← Back to Index</button>
-          <h1>${categoryTitle}</h1>
-          <p>${lessons.length} lessons</p>
+        <div class="page-header">
+          <button class="back-button modern-back-btn" onclick="devotionalApp.showIndex()">
+            <span class="back-icon">←</span>
+            <span class="back-text">Back to Index</span>
+          </button>
+          <div class="category-page-title">
+            <span class="category-page-icon">${categoryIcon}</span>
+            <h1 class="page-title">${categoryTitle}</h1>
+          </div>
+          <p class="page-subtitle">${lessons.length} lessons available</p>
         </div>
         
-        <div class="lessons-list">
+        <div class="lessons-grid">
           ${lessons.map(lesson => `
-            <div class="lesson-item" onclick="devotionalApp.loadDay(${lesson.week}, ${lesson.day})">
-              <div class="lesson-title">${lesson.title}</div>
-              <div class="lesson-meta">Week ${lesson.week}, Day ${lesson.day}</div>
+            <div class="lesson-card modern-card" onclick="devotionalApp.loadDay(${lesson.week}, ${lesson.day})">
+              <div class="lesson-header">
+                <h3 class="lesson-title">${lesson.title}</h3>
+                <div class="lesson-meta">Week ${lesson.week}, Day ${lesson.day}</div>
+              </div>
+              <div class="lesson-arrow">→</div>
             </div>
           `).join('')}
         </div>
@@ -401,6 +411,17 @@ class DevotionalApp {
       case 'attributes': return 'God\'s Attributes';
       case 'biographies': return 'Mini Biographies';
       default: return 'Lessons';
+    }
+  }
+
+  // Get category icon
+  getCategoryIcon(category) {
+    switch(category) {
+      case 'catechism': return '📖';
+      case 'wisdom': return '💡';
+      case 'attributes': return '✨';
+      case 'biographies': return '👥';
+      default: return '📚';
     }
   }
 
