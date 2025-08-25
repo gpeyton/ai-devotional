@@ -1,0 +1,36 @@
+{
+  "name": "devotional-website",
+  "version": "1.0.0",
+  "description": "Children's Daily Devotional Website - Foundations of Faith",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npx http-server . -p 3000 -a localhost -o",
+    "build": "echo 'Static site ready'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "devotional",
+    "children",
+    "faith",
+    "christian",
+    "education",
+    "westminster-catechism"
+  ],
+  "author": "Graham Peyton",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/devotional-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/devotional-website/issues"
+  },
+  "homepage": "https://foundations.railway.app"
+}
