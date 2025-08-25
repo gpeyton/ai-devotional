@@ -222,7 +222,18 @@
         </div>
     </footer>
 
-    <script src="assets/js/template-system.js?v=8"></script>
-    <script src="assets/js/script.js?v=8"></script>
+    <script src="assets/js/template-system.js?v=9"></script>
+    <script src="assets/js/script.js?v=9"></script>
+    <script>
+        console.log('Inline script test - JavaScript is working');
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM ready test - DOM events working');
+            const weeksNav = document.getElementById('weeksNav');
+            console.log('weeksNav element:', weeksNav);
+            if (weeksNav) {
+                weeksNav.innerHTML = '<div style="color: red;">TEST: JavaScript is working!</div>';
+            }
+        });
+    </script>
 </body>
 </html>
