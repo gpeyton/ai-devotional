@@ -1,14 +1,13 @@
 {
-  "builds": [
-    {
-      "src": "website/server.js",
-      "use": "@vercel/node"
+  "functions": {
+    "website/server.js": {
+      "runtime": "@vercel/node@18.x"
     }
-  ],
-  "routes": [
+  },
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "website/server.js"
+      "source": "/(.*)",
+      "destination": "/website/server.js"
     }
   ]
 }
