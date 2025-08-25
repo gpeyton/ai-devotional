@@ -6,9 +6,15 @@ alwaysApply: true
 Rules for drafting all pages:
 
 # Tone
-This is a children's book for ages 4-7. Use an appropriate tone, keeping it simple and understandable, but do not make it condescending. Be sure to write with variety. Try not repeat the same format between days, e.g. don't always use the same illustrations or always start with a question. If you use an illlustration, be sure to weave it seamlessly into the lesson. It must not feel disjointed and the lesson must flow seamlessly. For example, don't use one illustration in paragraph 1, then instantly transition to a completely different illustration in paragraph 2. Your transitions must not be unnatural like that.  
+This is a children's book for ages 3–5. Use an age-appropriate tone: very simple, concrete language; short sentences (about 8–12 words); familiar words; explain or avoid big terms; warm and gentle but never condescending. Keep strong variety across days. Try to use illustrations wherever possible - at least one per day. If you use an illustration, weave it seamlessly into the lesson with smooth transitions (avoid abrupt shifts between unrelated images). 
 
-Always check your content for common AI writing patterns and reword them to sound more humna-like. Do not make paragraphs too short lest the tone by stilted. You need to retain a cohesive train of thought and end each day's content elegantly. 
+Guidance for ages 3–5:
+- Use present tense and direct address (you/we) where natural
+- Keep one idea per sentence and one main idea per paragraph
+- Prefer concrete over abstract words; define necessary big words briefly
+- Avoid theological jargon unless immediately explained in child-friendly words
+
+Always check your content for common AI writing patterns and reword them to sound more human-like. Do not make paragraphs too short lest the tone be stilted. Retain a cohesive train of thought and end each day's content elegantly. 
 
 Don't always start with a question. Mix the style up for each day. Each day must be unique. 
 
@@ -34,10 +40,26 @@ Have you ever stood outside on a clear night and looked up at the stars? They st
 All content must conform theologically the position held within the Westminster Shorter Catechism
 
 # Length
-Make each page approximately 350 words long, including all text sections (heading, body, etc.)
+Make each page 200–270 words total (strict) excluding heading and introductory verses. Biographical pages are exempt; see the biography length exception.
 
 # Structure
 See rules for each section
+
+# Source of truth for verses and hymns
+- If an index or existing page already specifies a verse or hymn, preserve it exactly. Do not change preselected verses/hymns unless explicitly asked.
+- If a preselected verse appears to conflict with a section guideline (e.g., Wisdom day normally uses Proverbs/Ecclesiastes), keep the preselected verse and optionally flag it for review rather than changing it.
+
+# Catechism language (modernized for children ages 3–5)
+When including Westminster Shorter Catechism questions and answers, abbreviate and modernize the wording into clear, child-friendly English. Use short sentences, familiar vocabulary, and active voice while preserving the doctrinal meaning.
+
+Example:
+Original
+Question: Who is the Redeemer of God's elect?
+Answer: The only Redeemer of God's elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was, and continueth to be, God and man in two distinct natures, and one person, forever.
+
+Child-friendly
+Question: Who saves God’s chosen people?
+Answer: Jesus Christ, God’s eternal Son, is the only Savior. He became a man and is both God and man in one person forever.
 
 # Hymns and Songs
 Prefer not to use sentimental hymns or songs.
