@@ -3,44 +3,40 @@ description:
 globs: 
 alwaysApply: true
 ---
-# Page Structure
-The following structure must be followed when drafting the page. You can use between 2 to 4 prayer points:
+# JSON Structure for Catechism Days
+When creating catechism lesson JSON files, follow this structure:
 
-# Content
+```json
+{
+  "number": [1 or 3],
+  "title": "[Engaging title for the lesson]",
+  "type": "Catechism",
+  "hymn": "[Classic hymn title]",
+  "catechism": {
+    "questionNumber": [sequential WSC number],
+    "question": "[Rewrite catechism question for children]",
+    "answer": "[Rewrite catechism answer for children]"
+  },
+  "content": "[Lesson content]",
+  "prayerPoints": [
+    "[Prayer point 1]",
+    "[Prayer point 2]",
+    "[Prayer point 3]"
+  ]
+}
+```
+
+# Content Guidelines
 Your task is to explain and teach the catechism question/answer to a child. Structure the lesson in an engaging, flowing manner that holds attention. If appropriate, weave in a practical application and evangelistic element into the message, but don't force it if there is no natural fit. 
 
 Provide at least one, but not more than two, illustrations to convey the meaning. If you use one of these, be sure to weave it seamlessly into the lesson. It must not feel disjointed. 
 
- Use modernized, child-friendly wording (ages 3–5) for the Westminster Shorter Catechism questions and answers: shorten sentences, use familiar words, and retain doctrinal accuracy. Example: 
- - Original: "Who is the Redeemer of God's elect? ... continueth to be ..."
- - Child-friendly: "Who saves God’s chosen people? ... Jesus Christ ... is both God and man in one person forever."
+Make sure to rewrite the questions/answer with modernized, child-friendly wording (ages 3–5). I.e. shorten sentences, use familiar words, but retain doctrinal completelness. Example: 
+- Original: "Who is the Redeemer of God's elect? ... continueth to be ..."
+- Child-friendly: "Who saves God's chosen people? ... Jesus Christ ... is both God and man in one person forever."
 
-
-<page structure>
-Title
-
-Weekly Memory Verse: <verse/verses in ESV>
-
-Question: <catechism question>
-Answer: <catechism answer>
-
-<lesson>
-
-Hymn 
-<hymn title>
-
-Prayer Points
-• <point 1>
-• <point N>
-</page structure>
-
-# Formatting
-- Use markup
-- Title must be heading 2
-- "Weekly Memory Verse" must be bold followed by non-bold verse
-- "Lesson Verse" must be bold followed by non-bold verse
-- "Hymn" must must be bold followed by non-bold hymn title
-- "Prayer Points" must must be bold followed by non-bold prayer points
+# Content Array Structure
+Break the lesson into 6-8 paragraph strings in the content array. Each paragraph should be 2-4 sentences focusing on one main idea. You can use between 2 to 4 prayer points.
 
 # Verse Format Examples
 Weekly Memory Verse: "In the beginning, God created the heavens and the earth." (Gen 1:1)

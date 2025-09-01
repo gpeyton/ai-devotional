@@ -3,32 +3,31 @@ description:
 globs: 
 alwaysApply: true
 ---
-# Page Structure
-The following structure must be followed when drafting the page. 
+# JSON Structure for Wisdom Days
+When creating wisdom lesson JSON files, follow this structure:
 
-# Content
+```json
+{
+  "number": 2,
+  "title": "[Engaging title for the lesson]",
+  "type": "Wisdom",
+  "hymn": "[Classic hymn title]",
+  "lessonVerse": "[Proverbs or Ecclesiastes verse] ([Reference])",
+  "content": "[Lesson content]",
+  "prayerPoints": [
+    "[Prayer point 1]",
+    "[Prayer point 2]",
+    "[Prayer point N]"
+  ]
+}
+```
+
+# Content Guidelines
 Be practical and provide moral guidance regarding the topic. If appropriate, weave in a practical application and evangelistic element into the message, but don't force it if there is no natural fit. 
 
 Provide at least one, but not more than two, illustrations to convey the meaning. If you use one of these, be sure to weave it seamlessly into the lesson. It must not feel disjointed. 
 
-The <lesson verse> must be taken from the book of Proberbs or Ecclesiastes in the ESV.
-
-
-<page structure>
-Title
-
-Weekly Memory Verse: <verse/verses in ESV>
-Lesson Verse:<lesson verse>
-
-<lesson>
-
-Hymn 
-<hymn title>
-
-Prayer Points
-• <point 1>
-• <point N>
-</page structure>
+The lessonVerse must be taken from the book of Proverbs or Ecclesiastes in the ESV.
 
 # Formatting
 - Use markup

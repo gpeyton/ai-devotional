@@ -3,41 +3,38 @@ description:
 globs: 
 alwaysApply: true
 ---
-# Page Structure
-The following structure must be followed when drafting the page. 
+# JSON Structure for Catechism Days
+When creating catechism lesson JSON files, follow this example structure:
+
+```json
+{
+    "number": 5,
+    "title": "Michael Faraday",
+    "type": "Biography",
+    "hymn": "For the Beauty of the Earth",
+    "person": {
+        "name": "Michael Faraday",
+        "dates": "1791-1867",
+        "description": "Scientist who saw God's handiwork in electricity and magnetism"
+    },
+    "content": "[Lesson content]",
+    "prayerPoints": [
+        "[Prayer point 1]",
+        "[Prayer point 2]",
+        "[Prayer point 3]"
+    ]
+}
+```
 
 # Content
 Highlight key points in the life of the person, why they were influencial or impactful Christians in God's Kingdom. The text must flow naturally between paragraphs. Draw out appropriate lessons if appropriate. Ensure that your lesson is historically accurate - do not hallucinate details. Structure the story in an engaging, gripping manner that holds children's attention. And if fitting, include humorous accounts if appropriate. Do not make up fake stories. The tone must be engaging and exciting where appropriate to draw the reader in. 
 
- Tone must be appropriate to ages 3–5 and never condescending. Use very simple vocabulary, short sentences, and concrete images. Avoid graphic details; present difficult events with gentle, hopeful wording. Focus on the key historical details of the person's life, not generic details. 
+Tone must be appropriate to ages 3–5 and never condescending. Use very simple vocabulary, short sentences, and concrete images. Avoid graphic details; present difficult events with gentle, hopeful wording. Focus on the key historical details of the person's life, not generic details. 
 
- Include 1–2 interesting, concrete historical tidbits to make the story vivid (for example: a specific year or age, a city or place name, a short child-friendly quote, an object or artifact like a printing press or ship). Keep details brief, accurate, and age-appropriate. Do not fabricate events or dialogue. If a difficult event is essential, describe it gently and with hope.
+Include 1–2 interesting, concrete historical tidbits to make the story vivid (for example: a specific year or age, a city or place name, a short child-friendly quote, an object or artifact like a printing press or ship). Keep details brief, accurate, and age-appropriate. Do not fabricate events or dialogue. If a difficult event is essential, describe it gently and with hope.
 
 # Length exception (biographies only)
-Biographical pages may be approximately 350 words total (overrides the general 250-word guidance for these pages only).
-
-<page structure>
-Title
-
-Weekly Memory Verse: <verse/verses in ESV>
-
-<lesson>
-
-Hymn 
-<hymn title>
-
-Prayer Points
-• <point 1>
-• <point N>
-</page structure>
-
-# Formatting
-- Use markup
-- Title must be heading 2
-- "Weekly Memory Verse" must be bold followed by non-bold verse
-- "Lesson Verse" must be bold followed by non-bold verse
-- "Hymn" must must be bold followed by non-bold hymn title
-- "Prayer Points" must must be bold followed by non-bold prayer points
+Biographical pages may be up to max 350 words total (overrides the general 250-word guidance for these pages only).
 
 # Verse Format Examples
 Weekly Memory Verse: "In the beginning, God created the heavens and the earth." (Gen 1:1)

@@ -6,13 +6,13 @@
     "days": [
       {
         "number": 1,
-        "title": "What Is the Misery of That Estate?",
+        "title": "Have You a Soul as Well as a Body?",
         "type": "Catechism",
         "hymn": "Man of Sorrows! What a Name",
         "catechism": {
           "questionNumber": 19,
-          "question": "What is the misery of that estate?",
-          "answer": "All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all the miseries of this life, to death itself, and to the pains of hell forever."
+          "question": "Have you a soul as well as a body?",
+          "answer": "Yes; I have a soul that can never die."
         },
         "content": [
           "Think about the saddest day you can remember - perhaps when a beloved pet died, or when you had to move away from your best friend, or when someone you loved was very sick. That deep sadness in your heart gives us just a tiny glimpse of what it means to be separated from God. But our sadness from these earthly troubles will someday end, while the sadness that comes from sin is much deeper and more lasting.",
@@ -48,20 +48,21 @@
       },
       {
         "number": 3,
-        "title": "Did God Leave All Mankind to Perish?",
+        "title": "In What Condition Did God Make Adam and Eve?",
         "type": "Catechism",
         "hymn": "The God of Abraham Praise",
         "catechism": {
-          "questionNumber": 20,
-          "question": "Did God leave all mankind to perish?",
-          "answer": "God, having out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer."
+          "questionNumber": 21,
+          "question": "In what condition did God make Adam and Eve?",
+          "answer": "He made them holy and happy."
         },
         "content": [
-          "Imagine a great ship that has hit an iceberg and is slowly sinking into the icy ocean. All the passengers are in terrible danger - the water is freezing cold, and no one can swim to safety on their own. Everyone on board faces certain death unless someone comes to rescue them. Now imagine that another ship's captain sees what has happened and immediately changes course to save as many people as possible, even though it's dangerous and costly for him to do so.",
-          "This illustration helps us understand what happened after mankind fell into sin. We learned that all people are in the \"estate of sin and misery\" and face spiritual death. If God had simply left us in this condition, it would have been perfectly just - after all, we were the ones who chose to rebel against Him. But our catechism asks an important question: \"Did God leave all mankind to perish?\"",
-          "The wonderful answer is no! God \"out of his mere good pleasure, from all eternity, elected some to everlasting life.\" This means that even before He created the world, God chose to save some people, not because they deserved it, but simply because He is loving and merciful. The phrase \"mere good pleasure\" means it was entirely God's choice - He wasn't forced to save anyone, and those He saves didn't earn His favor.",
-          "God didn't just decide to save people and then leave them to figure out how to escape from sin on their own. Instead, He \"did enter into a covenant of grace.\" A covenant is like a special promise or agreement. In this covenant of grace, God promised to \"deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer.\"",
-          "Notice that God does all the work in this salvation. He chooses who will be saved, He makes the covenant, He delivers people from sin, and He provides the Redeemer who makes it all possible. People can't save themselves any more than passengers on a sinking ship can rescue themselves from icy waters. But God, like a loving captain, comes to the rescue of those He has chosen."
+          "Imagine Adam and Eve in the beautiful Garden of Eden. Everything was perfect! They had everything they needed and lived happily with God. But then something sad happened.",
+          "God had given them one simple rule: don't eat from one special tree. But Adam and Eve chose to disobey God and ate the fruit anyway. This choice changed everything and brought sadness into the world.",
+          "When God made Adam and Eve, He made them holy and happy. \"Holy\" means they were perfectly good and never did anything wrong. \"Happy\" means they had joy and peace in their hearts every day.",
+          "Adam and Eve never felt sad or scared in the garden. They never got sick or hurt. They never argued or felt lonely. Every day was filled with wonder as they explored God's beautiful creation.",
+          "Best of all, Adam and Eve could walk and talk with God! Imagine having your very best friend who loves you perfectly come and spend time with you every single day. That's what life was like for our first parents.",
+          "But when they disobeyed God, all this happiness and holiness was lost. They had to leave the beautiful garden, and sin, sadness and death entered the world. And that of course, is the reason why we all need a Savior."
         ],
         "prayerPoints": [
           "Praise God for His mercy in choosing to save anyone at all",

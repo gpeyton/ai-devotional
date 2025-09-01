@@ -1,11 +1,11 @@
 # Children's Devotional Book - Quarter 3 Index
 
-## Week 27: The Third Commandment
+## Week 27: Faith & Our Helplessness
 **Memory Verse**: "You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain." (Exodus 20:7)
 
-### Day 1: Which Is the Third Commandment?
-*Catechism Q53*: Which is the third commandment?
-*Catechism A*: The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain.
+### Day 1: What Is It to Believe or Have Faith in Christ?
+*Catechism Q57*: What is it to believe or have faith in Christ?
+*Catechism A*: To trust in Christ alone for salvation.
 *Hymn*: Holy, Holy, Holy
 
 ### Day 2: Speech
@@ -13,9 +13,9 @@
 Learning to use our words carefully, kindly and respectfully.
 *Hymn*: May the Words of My Mouth
 
-### Day 3: What Is Required in the Third Commandment?
-*Catechism Q54*: What is required in the third commandment?
-*Catechism A*: The third commandment requireth the holy and reverent use of God's names, titles, attributes, ordinances, word, and works.
+### Day 3: Can You Repent and Believe in Christ by Your Own Power?
+*Catechism Q58*: Can you repent and believe in Christ by your own power?
+*Catechism A*: No; I can do nothing good without the help of God's Holy Spirit.
 *Hymn*: Praise to the Lord, the Almighty
 
 ### Day 4: Glorious
@@ -27,12 +27,12 @@ Learning to use our words carefully, kindly and respectfully.
 The story of Felix Mendelssohn, composer whose beautiful sacred music honored God's name and brought Scripture to life through song.
 *Hymn*: All Creatures of Our God and King
 
-## Week 28: More on the Third Commandment
+## Week 28: The Holy Spirit's Help
 **Memory Verse**: "Hallowed be your name." (Matthew 6:9)
 
-### Day 1: What Is Forbidden in the Third Commandment?
-*Catechism Q55*: What is forbidden in the third commandment?
-*Catechism A*: The third commandment forbiddeth all profaning or abusing of anything whereby God maketh himself known.
+### Day 1: How Can You Get the Help of the Holy Spirit?
+*Catechism Q59*: How can you get the help of the Holy Spirit?
+*Catechism A*: God has told us that we must pray to him for the Holy Spirit.
 *Hymn*: Take the Name of Jesus with You
 
 ### Day 2: Prayer
@@ -40,9 +40,9 @@ The story of Felix Mendelssohn, composer whose beautiful sacred music honored Go
 Developing a meaningful prayer life that honors God.
 *Hymn*: Sweet Hour of Prayer
 
-### Day 3: What Is the Reason Annexed to the Third Commandment?
-*Catechism Q56*: What is the reason annexed to the third commandment?
-*Catechism A*: The reason annexed to the third commandment is, that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment.
+### Day 3: How Were Pious Persons Saved Before the Coming of Christ?
+*Catechism Q61*: How were pious persons saved before the coming of Christ?
+*Catechism A*: By believing in a Savior to come.
 *Hymn*: The Solid Rock
 
 ### Day 4: Exalted
@@ -54,12 +54,12 @@ Developing a meaningful prayer life that honors God.
 The story of Isaac Watts, hymn writer who revolutionized Christian worship music and wrote reverently about God's character in songs like "When I Survey the Wondrous Cross."
 *Hymn*: When I Survey the Wondrous Cross
 
-## Week 29: The Fourth Commandment
+## Week 29: Old Testament Faith
 **Memory Verse**: "Remember the Sabbath day, to keep it holy." (Exodus 20:8)
 
-### Day 1: Which Is the Fourth Commandment?
-*Catechism Q57*: Which is the fourth commandment?
-*Catechism A*: The fourth commandment is, Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.
+### Day 1: How Did They Show Their Faith?
+*Catechism Q62*: How did they show their faith?
+*Catechism A*: By offering sacrifices on God's altar.
 *Hymn*: This Is the Day
 
 ### Day 2: Diligence
@@ -67,9 +67,9 @@ The story of Isaac Watts, hymn writer who revolutionized Christian worship music
 The value of working hard and using our time wisely.
 *Hymn*: Work, for the Night Is Coming
 
-### Day 3: What Is Required in the Fourth Commandment?
-*Catechism Q58*: What is required in the fourth commandment?
-*Catechism A*: The fourth commandment requireth the keeping holy to God such set times as he hath appointed in his word; expressly one whole day in seven, to be a holy sabbath to himself.
+### Day 3: What Did These Sacrifices Represent?
+*Catechism Q63*: What did these sacrifices represent?
+*Catechism A*: Christ, the Lamb of God, who was to die for sinners.
 *Hymn*: O Day of Rest and Gladness
 
 ### Day 4: Unchangeable (Immutable)
@@ -81,12 +81,12 @@ The value of working hard and using our time wisely.
 The story of Blaise Pascal, mathematician and physicist who balanced his scientific work with deep devotion to God.
 *Hymn*: Be Thou My Vision
 
-## Week 30: More on the Fourth Commandment
+## Week 30: Christ's Three Offices
 **Memory Verse**: "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27)
 
-### Day 1: Which Day of the Seven Hath God Appointed to Be the Weekly Sabbath?
-*Catechism Q59*: Which day of the seven hath God appointed to be the weekly sabbath?
-*Catechism A*: From the beginning of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian sabbath.
+### Day 1: What Offices Has Christ?
+*Catechism Q64*: What offices has Christ?
+*Catechism A*: Christ has three offices.
 *Hymn*: Christ the Lord Is Risen Today
 
 ### Day 2: Work ethic
@@ -94,9 +94,9 @@ The story of Blaise Pascal, mathematician and physicist who balanced his scienti
 Understanding the importance and dignity of honest work knowing that we have been created in God's image as a worker.
 *Hymn*: Come, Labor On
 
-### Day 3: How Is the Sabbath to Be Sanctified?
-*Catechism Q60*: How is the sabbath to be sanctified?
-*Catechism A*: The sabbath is to be sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days; and spending the whole time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.
+### Day 3: What Are They?
+*Catechism Q65*: What are they?
+*Catechism A*: The offices of a prophet, of a priest, and of a king.
 *Hymn*: Safely Through Another Week
 
 ### Day 4: Perfect
@@ -108,12 +108,12 @@ Understanding the importance and dignity of honest work knowing that we have bee
 The story of Elisabeth Elliot, who continued her husband's missionary work after his martyrdom and demonstrated faithful perseverance.
 *Hymn*: Faith of Our Fathers
 
-## Week 31: Even More on the Fourth Commandment
+## Week 31: Prophet & Priest
 **Memory Verse**: "If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and call the Sabbath a delight." (Isaiah 58:13)
 
-### Day 1: What Is Forbidden in the Fourth Commandment?
-*Catechism Q61*: What is forbidden in the fourth commandment?
-*Catechism A*: The fourth commandment forbiddeth the omission, or careless performance, of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about our worldly employments or recreations.
+### Day 1: How Is Christ a Prophet?
+*Catechism Q66*: How is Christ a prophet?
+*Catechism A*: Because he teaches us the will of God.
 *Hymn*: Take Time to Be Holy
 
 ### Day 2: Discipline
@@ -121,9 +121,9 @@ The story of Elisabeth Elliot, who continued her husband's missionary work after
 Embracing correction as a pathway to growth and improvement. Being humble and wise enough to receive it.
 *Hymn*: Have Thine Own Way, Lord
 
-### Day 3: What Are the Reasons Annexed to the Fourth Commandment?
-*Catechism Q62*: What are the reasons annexed to the fourth commandment?
-*Catechism A*: The reasons annexed to the fourth commandment are, God's allowing us six days of the week for our own employments, his challenging a special propriety in the seventh, his own example, and his blessing the sabbath day.
+### Day 3: How Is Christ a Priest?
+*Catechism Q67*: How is Christ a priest?
+*Catechism A*: Because he died for our sins and pleads with God for us.
 *Hymn*: For the Beauty of the Earth
 
 ### Day 4: Peaceful
@@ -135,12 +135,12 @@ Embracing correction as a pathway to growth and improvement. Being humble and wi
 The story of Lord Kelvin, who saw no conflict between science and faith, and honored God through both his work and worship.
 *Hymn*: This Is My Father's World
 
-## Week 32: The Fifth Commandment
+## Week 32: King & Our Need
 **Memory Verse**: "Honor your father and your mother, that your days may be long in the land that the LORD your God is giving you." (Exodus 20:12)
 
-### Day 1: Which Is the Fifth Commandment?
-*Catechism Q63*: Which is the fifth commandment?
-*Catechism A*: The fifth commandment is, Honor thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.
+### Day 1: How Is Christ a King?
+*Catechism Q68*: How is Christ a king?
+*Catechism A*: Because he rules over us and defends us.
 *Hymn*: Children of the Heavenly Father
 
 ### Day 2: Obedience to parents
@@ -148,9 +148,9 @@ The story of Lord Kelvin, who saw no conflict between science and faith, and hon
 The blessing that comes from honoring and respecting our parents.
 *Hymn*: Trust and Obey
 
-### Day 3: What Is Required in the Fifth Commandment?
-*Catechism Q64*: What is required in the fifth commandment?
-*Catechism A*: The fifth commandment requireth the preserving the honor, and performing the duties, belonging to everyone in their several places and relations, as superiors, inferiors, or equals.
+### Day 3: Why Do You Need Christ as Prophet, Priest, and King?
+*Combined Q69+70+71*: Why do you need Christ as a prophet? Why do you need Christ as a priest? Why do you need Christ as a king?
+*Combined A*: Because I am ignorant. Because I am guilty. Because I am weak and helpless.
 *Hymn*: Blest Be the Tie That Binds
 
 ### Day 4: Provider
@@ -162,12 +162,12 @@ The blessing that comes from honoring and respecting our parents.
 The story of Mary Slessor, missionary to Nigeria who rescued unwanted children and taught them to honor God and their elders.
 *Hymn*: Tell Me the Stories of Jesus
 
-## Week 33: More on the Fifth Commandment
+## Week 33: The Ten Commandments
 **Memory Verse**: "Children, obey your parents in the Lord, for this is right." (Ephesians 6:1)
 
-### Day 1: What Is Forbidden in the Fifth Commandment?
-*Catechism Q65*: What is forbidden in the fifth commandment?
-*Catechism A*: The fifth commandment forbiddeth the neglecting of, or doing anything against, the honor and duty which belongeth to everyone in their several places and relations.
+### Day 1: How Many Commandments Did God Give on Mount Sinai?
+*Catechism Q72*: How many commandments did God give on Mount Sinai?
+*Catechism A*: Ten commandments.
 *Hymn*: I Would Be True
 
 ### Day 2: Respect
@@ -175,9 +175,9 @@ The story of Mary Slessor, missionary to Nigeria who rescued unwanted children a
 The importance of showing proper respect to those in authority.
 *Hymn*: Standing on the Promises
 
-### Day 3: What Is the Reason Annexed to the Fifth Commandment?
-*Catechism Q66*: What is the reason annexed to the fifth commandment?
-*Catechism A*: The reason annexed to the fifth commandment is, a promise of long life and prosperity (as far as it shall serve for God's glory and their own good) to all such as keep this commandment.
+### Day 3: What Do the First Four and Last Six Commandments Teach?
+*Combined Q74+75*: What do the first four commandments teach? What do the last six commandments teach?
+*Combined A*: Our duty to God. Our duty to our fellow men.
 *Hymn*: Count Your Blessings
 
 ### Day 4: Patient
@@ -189,12 +189,12 @@ The importance of showing proper respect to those in authority.
 The story of James Montgomery, hymn writer who honored his spiritual heritage in poetry and service.
 *Hymn*: Angels from the Realms of Glory
 
-## Week 34: The Sixth Commandment
+## Week 34: Love for God & Neighbor
 **Memory Verse**: "You shall not murder." (Exodus 20:13)
 
-### Day 1: Which Is the Sixth Commandment?
-*Catechism Q67*: Which is the sixth commandment?
-*Catechism A*: The sixth commandment is, Thou shalt not kill.
+### Day 1: What Is the Sum of the Ten Commandments?
+*Catechism Q76*: What is the sum of the ten commandments?
+*Catechism A*: To love God with all my heart, and my neighbor as myself.
 *Hymn*: Precious Lord, Take My Hand
 
 ### Day 2: Love
@@ -202,9 +202,9 @@ The story of James Montgomery, hymn writer who honored his spiritual heritage in
 How to love others practically. The importance of not being quick to take offense.
 *Hymn*: Love Divine, All Loves Excelling
 
-### Day 3: What Is Required in the Sixth Commandment?
-*Catechism Q68*: What is required in the sixth commandment?
-*Catechism A*: The sixth commandment requireth all lawful endeavors to preserve our own life, and the life of others.
+### Day 3: Who Is Your Neighbor and Is God Pleased with Obedience?
+*Combined Q77+78*: Who is your neighbor? Is God pleased with those who love and obey him?
+*Combined A*: All my fellow men are my neighbors. Yes; he says, "I love them that love me."
 *Hymn*: He's Got the Whole World in His Hands
 
 ### Day 4: Protector
@@ -216,12 +216,12 @@ How to love others practically. The importance of not being quick to take offens
 The story of Lieutenant 'Birdie' Bowers, who demonstrated sacrificial love during Scott's Antarctic expedition and lived by Christian principles.
 *Hymn*: Make Me a Blessing
 
-## Week 35: More on the Sixth Commandment
+## Week 35: God's Response to Obedience
 **Memory Verse**: "We know that we have passed out of death into life, because we love the brothers." (1 John 3:14)
 
-### Day 1: What Is Forbidden in the Sixth Commandment?
-*Catechism Q69*: What is forbidden in the sixth commandment?
-*Catechism A*: The sixth commandment forbiddeth the taking away of our own life, or the life of our neighbor unjustly, or whatsoever tendeth thereunto.
+### Day 1: Is God Displeased with Those Who Do Not Love and Obey Him?
+*Catechism Q79*: Is God displeased with those who do not love and obey him?
+*Catechism A*: Yes; "God is angry with the wicked every day."
 *Hymn*: Jesus, Lover of My Soul
 
 ### Day 2: Anger
@@ -229,9 +229,9 @@ The story of Lieutenant 'Birdie' Bowers, who demonstrated sacrificial love durin
 Learning to control our emotions rather than letting them control us.
 *Hymn*: Sweet Peace, the Gift of God's Love
 
-### Day 3: Which Is the Seventh Commandment?
-*Catechism Q70*: Which is the seventh commandment?
-*Catechism A*: The seventh commandment is, Thou shalt not commit adultery.
+### Day 3: What Is the First Commandment and What Does It Teach?
+*Combined Q80+81*: What is the first commandment? What does the first commandment teach us?
+*Combined A*: The first commandment is, Thou shalt have no other gods before me. To worship God alone.
 *Hymn*: Whiter Than Snow
 
 ### Day 4: Healer
@@ -244,12 +244,12 @@ The Lord who heals us spiritually, and one day physically in the Heaven. The one
 The story of Hannah More, who wrote and worked to improve education and moral values, showing respect for human dignity.
 *Hymn*: Rescue the Perishing
 
-## Week 36: The Seventh Commandment
+## Week 36: First & Second Commandments
 **Memory Verse**: "You shall not commit adultery." (Exodus 20:14)
 
-### Day 1: What Is Required in the Seventh Commandment?
-*Catechism Q71*: What is required in the seventh commandment?
-*Catechism A*: The seventh commandment requireth the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.
+### Day 1: What Is the Second Commandment and What Does It Teach?
+*Combined Q82+83*: What is the second commandment? What does the second commandment teach us?
+*Combined A*: [Second commandment text]. To worship God in a proper manner, and to avoid idolatry.
 *Hymn*: Purer in Heart, O God
 
 ### Day 2: Pride
@@ -257,9 +257,9 @@ The story of Hannah More, who wrote and worked to improve education and moral va
 Understanding how pride can be destructive and how God opposes the proud.
 *Hymn*: When I Survey the Wondrous Cross
 
-### Day 3: What Is Forbidden in the Seventh Commandment?
-*Catechism Q72*: What is forbidden in the seventh commandment?
-*Catechism A*: The seventh commandment forbiddeth all unchaste thoughts, words, and actions.
+### Day 3: What Is the Third Commandment and What Does It Teach?
+*Combined Q84+85*: What is the third commandment? What does the third commandment teach me?
+*Combined A*: The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain. To reverence God's name, word, and works.
 *Hymn*: Create in Me a Clean Heart
 
 ### Day 4: Pure
@@ -271,12 +271,12 @@ Understanding how pride can be destructive and how God opposes the proud.
 The story of Fred Charrington, who gave up a large inheritance to fight against alcohol abuse and promote family values.
 *Hymn*: Onward, Christian Soldiers
 
-## Week 37: The Eighth Commandment
+## Week 37: Third & Fourth Commandments
 **Memory Verse**: "You shall not steal." (Exodus 20:15)
 
-### Day 1: Which Is the Eighth Commandment?
-*Catechism Q73*: Which is the eighth commandment?
-*Catechism A*: The eighth commandment is, Thou shalt not steal.
+### Day 1: What Is the Fourth Commandment and What Does It Teach?
+*Combined Q86+87*: What is the fourth commandment? What does the fourth commandment teach us?
+*Combined A*: [Fourth commandment text]. To keep the Sabbath holy.
 *Hymn*: Take My Life, and Let It Be
 
 ### Day 2: Honesty
@@ -284,9 +284,9 @@ The story of Fred Charrington, who gave up a large inheritance to fight against 
 The importance of fairness and honesty in all our interactions.
 *Hymn*: I Would Be True
 
-### Day 3: What Is Required in the Eighth Commandment?
-*Catechism Q74*: What is required in the eighth commandment?
-*Catechism A*: The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others.
+### Day 3: What Is the Christian Sabbath and Why?
+*Combined Q88+89*: What day of the week is the Christian Sabbath? Why is it called the Lord's day?
+*Combined A*: The first day of the week, called the Lord's day. Because on that day Christ rose from the dead.
 *Hymn*: We Give Thee But Thine Own
 
 ### Day 4: Generous
@@ -298,12 +298,12 @@ The importance of fairness and honesty in all our interactions.
 The story of John Milton, poet who wrote "Paradise Lost" and advocated for truth and honesty in literature and life.
 *Hymn*: Crown Him with Many Crowns
 
-## Week 38: More on the Eighth Commandment
+## Week 38: Sabbath Keeping & Fifth Commandment
 **Memory Verse**: "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands." (Ephesians 4:28)
 
-### Day 1: What Is Forbidden in the Eighth Commandment?
-*Catechism Q75*: What is forbidden in the eighth commandment?
-*Catechism A*: The eighth commandment forbiddeth whatsoever doth, or may, unjustly hinder our own, or our neighbor's, wealth or outward estate.
+### Day 1: How Should the Sabbath Be Spent?
+*Catechism Q90*: How should the Sabbath be spent?
+*Catechism A*: In prayer and praise, in hearing and reading God's Word, and in doing good to our fellow men.
 *Hymn*: Work, for the Night Is Coming
 
 ### Day 2: Wealth
@@ -311,9 +311,9 @@ The story of John Milton, poet who wrote "Paradise Lost" and advocated for truth
 Developing a healthy perspective toward possessions and money.
 *Hymn*: Jesus Paid It All
 
-### Day 3: Which Is the Ninth Commandment?
-*Catechism Q76*: Which is the ninth commandment?
-*Catechism A*: The ninth commandment is, Thou shalt not bear false witness against thy neighbor.
+### Day 3: What Is the Fifth Commandment and What Does It Teach?
+*Combined Q91+92*: What is the fifth commandment? What does the fifth commandment teach me?
+*Combined A*: The fifth commandment is, Honor thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee. To love and obey our parents and teachers.
 *Hymn*: O Word of God Incarnate
 
 ### Day 4: Self-Sufficient
@@ -325,12 +325,12 @@ Developing a healthy perspective toward possessions and money.
 The story of Joshua Poole ('Fiddler Joss'), who turned from a life of crime to become an evangelist, demonstrating God's transforming power.
 *Hymn*: Amazing Grace
 
-## Week 39: The Ninth Commandment
+## Week 39: Sixth Through Tenth Commandments
 **Memory Verse**: "You shall not bear false witness against your neighbor." (Exodus 20:16)
 
-### Day 1: What Is Required in the Ninth Commandment?
-*Catechism Q77*: What is required in the ninth commandment?
-*Catechism A*: The ninth commandment requireth the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.
+### Day 1: What Is the Sixth Commandment and What Does It Teach?
+*Combined Q93+94*: What is the sixth commandment? What does the sixth commandment teach us?
+*Combined A*: The sixth commandment is, Thou shalt not kill. To avoid angry passions.
 *Hymn*: Tell Me the Truth
 
 ### Day 2: Anger
@@ -338,9 +338,9 @@ The story of Joshua Poole ('Fiddler Joss'), who turned from a life of crime to b
 A practical guide to controlling anger that can lead to speaking falsely about others.
 *Hymn*: Sweet Peace, the Gift of God's Love
 
-### Day 3: What Is Forbidden in the Ninth Commandment?
-*Catechism Q78*: What is forbidden in the ninth commandment?
-*Catechism A*: The ninth commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own, or our neighbor's, good name.
+### Day 3: What Is the Seventh Commandment and What Does It Teach?
+*Combined Q95+96*: What is the seventh commandment? What does the seventh commandment teach us?
+*Combined A*: The seventh commandment is, Thou shalt not commit adultery. To be pure in heart, language, and conduct.
 *Hymn*: Help Me to Be Pure and True
 
 ### Day 4: Speaking Truth

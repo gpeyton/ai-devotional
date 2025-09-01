@@ -1,6 +1,6 @@
 ---
 description: 
-globs: 
+globs: ["content/weeks/week*.json", "website/week_template.json"]
 alwaysApply: true
 ---
 Rules for drafting all pages:
@@ -16,7 +16,7 @@ Guidance for ages 3–5:
 
 Always check your content for common AI writing patterns and reword them to sound more human-like. Do not make paragraphs too short lest the tone be stilted. Retain a cohesive train of thought and end each day's content elegantly. 
 
-Don't always start with a question. Mix the style up for each day. Each day must be unique. 
+Don't always start each day with a question. Mix the style up for each day. Be original. Each day must be unique. 
 
 # Illustrations
 Illustrations may be: literary llustrations, historical stories, anecdotes, metaphores, literary pictures. Do not use stories you have made up about named people, but it is ok to use hypothetic scenarious. Example:
@@ -40,7 +40,7 @@ Have you ever stood outside on a clear night and looked up at the stars? They st
 All content must conform theologically the position held within the Westminster Shorter Catechism
 
 # Length
-Make each page 200–270 words total (strict) excluding heading and introductory verses. Biographical pages are exempt; see the biography length exception.
+Make each page 200–250 words total (strict) excluding heading and introductory verses. Biographical pages are exempt; see the biography length exception.
 
 # Structure
 See rules for each section
@@ -91,4 +91,156 @@ Prayer Points:
 • Praise God for His wonderful creation
 • Ask God to help us use our special gifts for His glory
 </example of catechism day>
+
+# Week JSON Generation Rules
+
+When generating new week JSON files for the Foundations of Faith devotional, follow these strict guidelines based on the established template structure.
+
+## Template Structure
+
+Use `/Users/gpeyton/Documents/devotional/website/week_template.json` as the authoritative template. Each week JSON must follow this exact structure:
+
+```json
+{
+  "week": {
+    "number": [week_number],
+    "title": "[Week Theme Title]",
+    "memoryVerse": "[ESV verse with reference]",
+    "days": [5 day objects]
+  }
+}
+```
+
+## Week Structure Requirements
+
+### Week-Level Properties
+- **number**: Sequential integer (1, 2, 3, etc.)
+- **title**: Thematic title for the week (e.g., "The Creator God", "God's Word", "Trusting God")
+- **memoryVerse**: ESV Bible verse with proper citation format
+
+### Daily Structure Pattern
+Each week must contain exactly **5 days** following this pattern:
+
+**Day 1: Catechism**
+- type: "Catechism"
+- Must include `catechism` object with `questionNumber`, `question`, `answer`
+- Use Westminster Shorter Catechism questions (modernized for ages 3-5)
+
+**Day 2: Wisdom**
+- type: "Wisdom" 
+- Must include `lessonVerse` from Proverbs or Ecclesiastes (ESV)
+- Focus on practical moral guidance
+
+**Day 3: Catechism**
+- type: "Catechism"
+- Must include `catechism` object with next sequential question
+- Continue Westminster Shorter Catechism sequence
+
+**Day 4: God's Attributes**
+- type: "Attribute"
+- Must include `attribute` field (single word like "Creative", "Holy", "Just")
+- Must include `lessonVerse` demonstrating that attribute (ESV)
+
+**Day 5: Biography**
+- type: "Biography"
+- Must include `person` object with `name`, `dates`, `description`
+- Focus on faithful Christians throughout history
+
+## Content Requirements
+
+### All Days
+- **title**: Engaging, age-appropriate title
+- **hymn**: Classic hymn title (avoid sentimental choices)
+- **content**: Array of 6-8 paragraphs (strings)
+- **prayerPoints**: Array of 3-4 prayer points (strings)
+
+### Content Guidelines
+- **Age Range**: 3-5 years old
+- **Length**: 200-270 words per day (350 for biographies)
+- **Tone**: Simple, concrete language; short sentences; warm but not condescending
+- **Theology**: Must conform to Westminster Shorter Catechism positions
+- **Variety**: Each day must be unique in style and approach
+
+### Content Array Structure
+Each `content` array should contain 6-8 separate paragraph strings:
+```json
+"content": [
+  "Opening paragraph with engaging hook...",
+  "Development paragraph with key concept...",
+  "Illustration or example paragraph...",
+  "Additional explanation or application...",
+  "Biblical connection or deeper teaching...",
+  "Practical application for children...",
+  "Closing thought or connection to theme..."
+]
+```
+
+### Prayer Points Structure
+```json
+"prayerPoints": [
+  "Thank God for [specific aspect]",
+  "Ask God to help [specific request]", 
+  "Praise God for [specific attribute]"
+]
+```
+
+## Day-Type Specific Requirements
+
+### Catechism Days (1 & 3)
+```json
+"catechism": {
+  "questionNumber": [sequential_number],
+  "question": "[Modernized child-friendly question]",
+  "answer": "[Modernized child-friendly answer]"
+}
+```
+
+### Wisdom Days (2)
+```json
+"lessonVerse": "[Proverbs or Ecclesiastes verse] ([Reference])"
+```
+
+### Attribute Days (4)
+```json
+"attribute": "[Single attribute word]",
+"lessonVerse": "[Bible verse demonstrating attribute] ([Reference])"
+```
+
+### Biography Days (5)
+```json
+"person": {
+  "name": "[Full Name]",
+  "dates": "[Birth-Death years]", 
+  "description": "[Brief description of significance]"
+}
+```
+
+## File Naming Convention
+- Files must be named: `week[number].json` (e.g., `week1.json`, `week2.json`)
+- Store in `/content/weeks/` directory
+- Use sequential numbering with no gaps
+
+## Quality Checklist
+Before finalizing any week JSON file, verify:
+
+- [ ] Follows exact template structure
+- [ ] All required fields present for each day type
+- [ ] ESV verses properly formatted with references  
+- [ ] Westminster Shorter Catechism questions in sequence
+- [ ] Content appropriate for ages 3-5
+- [ ] 5 days with correct types in order
+- [ ] Prayer points are actionable and specific
+- [ ] Hymn selections are appropriate (classic, not sentimental)
+- [ ] Biography person is historically accurate
+- [ ] All content arrays have 6-8 paragraph strings
+- [ ] Valid JSON syntax
+
+## Integration with Frontend
+The generated JSON files integrate with the devotional website's:
+- Week navigation sidebar
+- Lesson index pages (Catechism, Wisdom, Attributes, Biographies)
+- Template rendering system
+- Day-by-day progression tracking
+
+Ensure all generated content will display correctly in the modern card-based UI with proper navigation between weeks, days, and lesson categories.
 

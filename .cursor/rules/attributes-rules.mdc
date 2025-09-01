@@ -3,8 +3,25 @@ description:
 globs: 
 alwaysApply: true
 ---
-# Page Structure
-The following structure must be followed when drafting the page. 
+# JSON Structure for Catechism Days
+When creating catechism lesson JSON files, follow this example structure:
+
+```json
+{
+    "number": 4,
+    "title": "God's Creativity",
+    "type": "Attribute",
+    "hymn": "All Creatures of Our God and King",
+    "attribute": "Creative",
+    "lessonVerse": "How many are Your works, Lord! In wisdom You made them all; the earth is full of Your creatures. (Psalm 104:24)",
+    "content": "[Lesson content]",
+    "prayerPoints": [
+        "[Prayer point 1]",
+        "[Prayer point 2]",
+        "[Prayer point 3]"
+    ]
+}
+```
 
 # Content
 use the verse as a basis to explains and extols the attribute of God listed. If appropriate, weave in a practical application and evangelistic element into the message, but don't force it if there is no natural fit. 
@@ -12,31 +29,6 @@ use the verse as a basis to explains and extols the attribute of God listed. If 
 Provide at least one, but not more than two, illustrations to convey the meaning. If you use one of these, be sure to weave it seamlessly into the lesson. It must not feel disjointed. 
 
 The <lesson verse> must be taken from the ESV. If needed, it's OK to use additional verses to substantiate your points.
-
-
-<page structure>
-Title
-
-Weekly Memory Verse: <verse/verses in ESV>
-Lesson Verse:<lesson verse>
-
-<lesson>
-
-Hymn 
-<hymn title>
-
-Prayer Points
-• <point 1>
-• <point N>
-</page structure>
-
-# Formatting
-- Use markup
-- Title must be heading 2
-- "Weekly Memory Verse" must be bold followed by non-bold verse
-- "Lesson Verse" must be bold followed by non-bold verse
-- "Hymn" must must be bold followed by non-bold hymn title
-- "Prayer Points" must must be bold followed by non-bold prayer points
 
 # Verse Format Examples
 Weekly Memory Verse: "In the beginning, God created the heavens and the earth." (Gen 1:1)

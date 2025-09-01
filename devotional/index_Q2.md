@@ -1,11 +1,11 @@
 # Children's Devotional Book - Quarter 2 Index
 
-## Week 14: Christ's Humiliation
+## Week 14: Understanding Sin
 **Memory Verse**: "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross." (Philippians 2:8)
 
-### Day 1: Wherein Did Christ's Humiliation Consist?
-*Catechism Q27*: Wherein did Christ's humiliation consist?
-*Catechism A*: Christ's humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time.
+### Day 1: What Is Meant by Want of Conformity and Transgression?
+*Combined Q29+30*: What is meant by want of conformity? What is meant by transgression?
+*Combined A*: Not being or doing what God requires. Doing what God forbids.
 *Hymn*: O Sacred Head, Now Wounded
 
 ### Day 2: Humility
@@ -13,9 +13,9 @@
 The value of a humble heart and how it leads to greater wisdom.
 *Hymn*: Jesus, I My Cross Have Taken
 
-### Day 3: Wherein Consists Christ's Exaltation?
-*Catechism Q28*: Wherein consists Christ's exaltation?
-*Catechism A*: Christ's exaltation consists in his rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.
+### Day 3: What Was the Sin of Our First Parents?
+*Catechism Q31*: What was the sin of our first parents?
+*Catechism A*: Eating the forbidden fruit.
 *Hymn*: Christ the Lord Is Risen Today
 
 ### Day 4: Compassionate
@@ -27,12 +27,12 @@ The value of a humble heart and how it leads to greater wisdom.
 The story of Katharina von Bora, who supported her husband Martin Luther's work for the Reformation and showed Christ-like humility in her service.
 *Hymn*: A Mighty Fortress Is Our God
 
-## Week 15: Benefits of Redemption
+## Week 15: Temptation & Fall
 **Memory Verse**: "In him we have redemption through his blood, the forgiveness of our trespasses." (Ephesians 1:7)
 
-### Day 1: How Are We Made Partakers of the Redemption Purchased by Christ?
-*Catechism Q29*: How are we made partakers of the redemption purchased by Christ?
-*Catechism A*: We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by his Holy Spirit.
+### Day 1: Who Tempted Them to This Sin?
+*Catechism Q32*: Who tempted them to this sin?
+*Catechism A*: The devil tempted Eve, and she gave the fruit to Adam.
 *Hymn*: Come, Holy Spirit, Heavenly Dove
 
 ### Day 2: Joy
@@ -40,9 +40,9 @@ The story of Katharina von Bora, who supported her husband Martin Luther's work 
 How joy strengthens us and becomes a natural response to God's goodness.
 *Hymn*: Joyful, Joyful, We Adore Thee
 
-### Day 3: How Does the Spirit Apply to Us the Redemption Purchased by Christ?
-*Catechism Q30*: How does the Spirit apply to us the redemption purchased by Christ?
-*Catechism A*: The Spirit applies to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.
+### Day 3: What Befell Our First Parents When They Had Sinned?
+*Catechism Q33*: What befell our first parents when they had sinned?
+*Catechism A*: Instead of being holy and happy, they became sinful and miserable.
 *Hymn*: Spirit of the Living God
 
 ### Day 4: Deliverer
@@ -54,12 +54,12 @@ How joy strengthens us and becomes a natural response to God's goodness.
 The story of James Clerk Maxwell, whose scientific discoveries revealed more of God's orderly creation and the benefits of studying it.
 *Hymn*: How Great Thou Art
 
-## Week 16: Effectual Calling
+## Week 16: Sin's Universal Effect
 **Memory Verse**: "And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified." (Romans 8:30)
 
-### Day 1: What Is Effectual Calling?
-*Catechism Q31*: What is effectual calling?
-*Catechism A*: Effectual calling is the work of God's Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, he doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel.
+### Day 1: Did Adam Act for Himself Alone in the Covenant of Works?
+*Catechism Q34*: Did Adam act for himself alone in the covenant of works?
+*Catechism A*: No; he represented all his posterity.
 *Hymn*: Come, Ye Sinners, Poor and Needy
 
 ### Day 2: Compassion
@@ -67,9 +67,9 @@ The story of James Clerk Maxwell, whose scientific discoveries revealed more of 
 Learning to show kindness to those in need as an expression of our faith.
 *Hymn*: Rescue the Perishing
 
-### Day 3: What Benefits Do They That Are Effectually Called Partake of in This Life?
-*Catechism Q32*: What benefits do they that are effectually called partake of in this life?
-*Catechism A*: They that are effectually called do in this life partake of justification, adoption, and sanctification, and the several benefits which in this life do either accompany or flow from them.
+### Day 3: What Effect Had the Sin of Adam on All Mankind?
+*Catechism Q35*: What effect had the sin of Adam on all mankind?
+*Catechism A*: All mankind are born in a state of sin and misery.
 *Hymn*: Blessed Assurance
 
 ### Day 4: Powerful (Omnipotent)
@@ -81,12 +81,12 @@ Learning to show kindness to those in need as an expression of our faith.
 The story of John Paton, a missionary who answered God's call to bring the gospel to cannibals in the New Hebrides islands.
 *Hymn*: Send the Light
 
-## Week 17: Justification
+## Week 17: Original Sin
 **Memory Verse**: "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ." (Romans 5:1)
 
-### Day 1: What Is Justification?
-*Catechism Q33*: What is justification?
-*Catechism A*: Justification is an act of God's free grace, wherein he pardoneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone.
+### Day 1: What Is That Sinful Nature Which We Inherit from Adam Called?
+*Catechism Q36*: What is that sinful nature which we inherit from Adam called?
+*Catechism A*: Original sin.
 *Hymn*: Jesus Paid It All
 
 ### Day 2: Righteousness
@@ -94,9 +94,9 @@ The story of John Paton, a missionary who answered God's call to bring the gospe
 What it means to pursue righteousness; how righteous living brings increasing clarity and direction to our lives; how become as children of the light, and like the Light of the World.
 *Hymn*: Be Thou My Vision
 
-### Day 3: What Is Adoption?
-*Catechism Q34*: What is adoption?
-*Catechism A*: Adoption is an act of God's free grace, whereby we are received into the number, and have a right to all the privileges of the sons of God.
+### Day 3: What Does Every Sin Deserve?
+*Catechism Q37*: What does every sin deserve?
+*Catechism A*: The wrath and curse of God.
 *Hymn*: Children of the Heavenly Father
 
 ### Day 4: Righteous
@@ -108,12 +108,12 @@ What it means to pursue righteousness; how righteous living brings increasing cl
 The story of Amy Carmichael, who saved children from temple slavery in India and taught them about God's love and righteousness.
 *Hymn*: Jesus Loves the Little Children
 
-## Week 18: Sanctification
+## Week 18: The Need for a New Heart
 **Memory Verse**: "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ." (1 Thessalonians 5:23)
 
-### Day 1: What Is Sanctification?
-*Catechism Q35*: What is sanctification?
-*Catechism A*: Sanctification is the work of God's free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.
+### Day 1: Can Any One Go to Heaven with This Sinful Nature?
+*Catechism Q38*: Can any one go to heaven with this sinful nature?
+*Catechism A*: No; our hearts must be changed before we can be fit for heaven.
 *Hymn*: Take My Life, and Let It Be
 
 ### Day 2: Self-control
@@ -121,9 +121,9 @@ The story of Amy Carmichael, who saved children from temple slavery in India and
 The importance of developing self-discipline and restraint in our daily choices.
 *Hymn*: Have Thine Own Way, Lord
 
-### Day 3: What Are the Benefits Which in This Life Do Accompany or Flow from Justification, Adoption, and Sanctification?
-*Catechism Q36*: What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?
-*Catechism A*: The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are, assurance of God's love, peace of conscience, joy in the Holy Ghost, increase of grace, and perseverance therein to the end.
+### Day 3: What Is a Change of Heart Called?
+*Catechism Q39*: What is a change of heart called?
+*Catechism A*: Regeneration.
 *Hymn*: Blessed Assurance
 
 ### Day 4: Good
@@ -135,12 +135,12 @@ The importance of developing self-discipline and restraint in our daily choices.
 The story of George Whitefield, whose powerful preaching during the Great Awakening called people to holy living and spiritual growth.
 *Hymn*: O for a Thousand Tongues to Sing
 
-## Week 19: Death and Resurrection
+## Week 19: Only God Can Save
 **Memory Verse**: "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live.'" (John 11:25)
 
-### Day 1: What Benefits Do Believers Receive from Christ at Death?
-*Catechism Q37*: What benefits do believers receive from Christ at death?
-*Catechism A*: The souls of believers are at their death made perfect in holiness, and do immediately pass into glory; and their bodies, being still united to Christ, do rest in their graves till the resurrection.
+### Day 1: Who Can Change a Sinner's Heart?
+*Catechism Q40*: Who can change a sinner's heart?
+*Catechism A*: The Holy Spirit alone.
 *Hymn*: When We All Get to Heaven
 
 ### Day 2: Courage
@@ -148,9 +148,9 @@ The story of George Whitefield, whose powerful preaching during the Great Awaken
 Finding strength to face challenges with confidence because of our trust in God.
 *Hymn*: A Mighty Fortress Is Our God
 
-### Day 3: What Benefits Do Believers Receive from Christ at the Resurrection?
-*Catechism Q38*: What benefits do believers receive from Christ at the resurrection?
-*Catechism A*: At the resurrection, believers being raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoying of God to all eternity.
+### Day 3: Can Any One Be Saved Through the Covenant of Works? Why Not?
+*Combined Q41+42*: Can any one be saved through the covenant of works? Why can none be saved through the covenant of works?
+*Combined A*: None can be saved through the covenant of works. Because all have broken it, and are condemned by it.
 *Hymn*: Christ the Lord Is Risen Today
 
 ### Day 4: Living
@@ -162,12 +162,12 @@ Finding strength to face challenges with confidence because of our trust in God.
 The story of Jean Henri Dunant, founder of the Red Cross, who showed Christian compassion by caring for wounded soldiers on the battlefield.
 *Hymn*: Make Me a Blessing
 
-## Week 20: The Duty of Man
+## Week 20: The Covenant of Grace
 **Memory Verse**: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" (Micah 6:8)
 
-### Day 1: What Is the Duty Which God Requireth of Man?
-*Catechism Q39*: What is the duty which God requireth of man?
-*Catechism A*: The duty which God requireth of man, is obedience to his revealed will.
+### Day 1: With Whom Did God the Father Make the Covenant of Grace?
+*Catechism Q43*: With whom did God the Father make the covenant of grace?
+*Catechism A*: With Christ, his eternal Son.
 *Hymn*: Trust and Obey
 
 ### Day 2: Godliness
@@ -175,9 +175,9 @@ The story of Jean Henri Dunant, founder of the Red Cross, who showed Christian c
 Understanding our primary purpose: to honor God in everything we do. Godliness is of great gain.
 *Hymn*: More Holiness Give Me
 
-### Day 3: What Did God at First Reveal to Man for the Rule of His Obedience?
-*Catechism Q40*: What did God at first reveal to man for the rule of his obedience?
-*Catechism A*: The rule which God at first revealed to man for his obedience, was the moral law.
+### Day 3: Whom Did Christ Represent in the Covenant of Grace?
+*Catechism Q44*: Whom did Christ represent in the covenant of grace?
+*Catechism A*: His elect people.
 *Hymn*: How Firm a Foundation
 
 ### Day 4: Judge
@@ -189,12 +189,12 @@ Understanding our primary purpose: to honor God in everything we do. Godliness i
 The story of William Carey, known as the "father of modern missions," who worked tirelessly to translate the Bible into Indian languages.
 *Hymn*: From Greenland's Icy Mountains
 
-## Week 21: The Ten Commandments
+## Week 21: Christ's Work
 **Memory Verse**: "And God spoke all these words, saying, 'I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.'" (Exodus 20:1-2)
 
-### Day 1: Where Is the Moral Law Summarily Comprehended?
-*Catechism Q41*: Where is the moral law summarily comprehended?
-*Catechism A*: The moral law is summarily comprehended in the ten commandments.
+### Day 1: What Did Christ Undertake in the Covenant of Grace?
+*Catechism Q45*: What did Christ undertake in the covenant of grace?
+*Catechism A*: To keep the whole law for his people, and to suffer the punishment due to their sins.
 *Hymn*: How Firm a Foundation
 
 ### Day 2: Integrity
@@ -202,9 +202,9 @@ The story of William Carey, known as the "father of modern missions," who worked
 The importance of wholehearted commitment to doing what is right, even if it costs us.
 *Hymn*: Be Thou My Vision
 
-### Day 3: What Is the Sum of the Ten Commandments?
-*Catechism Q42*: What is the sum of the ten commandments?
-*Catechism A*: The sum of the ten commandments is, to love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.
+### Day 3: Did Our Lord Jesus Christ Ever Commit the Least Sin?
+*Catechism Q46*: Did our Lord Jesus Christ ever commit the least sin?
+*Catechism A*: No; he was holy, harmless, and undefiled.
 *Hymn*: Love Divine, All Loves Excelling
 
 ### Day 4: Love
@@ -216,12 +216,12 @@ The importance of wholehearted commitment to doing what is right, even if it cos
 The story of David Brainerd, a missionary to Native Americans who lived a life of prayer and dedication to God's commands.
 *Hymn*: Sweet Hour of Prayer
 
-## Week 22: The Preface to the Commandments
+## Week 22: Christ Became Man
 **Memory Verse**: "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery." (Exodus 20:2)
 
-### Day 1: What Is the Preface to the Ten Commandments?
-*Catechism Q43*: What is the preface to the ten commandments?
-*Catechism A*: The preface to the ten commandments is in these words, I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+### Day 1: How Could the Son of God Suffer?
+*Catechism Q47*: How could the Son of God suffer?
+*Catechism A*: Christ, the Son of God, became man that he might obey and suffer in our nature.
 *Hymn*: Guide Me, O Thou Great Jehovah
 
 ### Day 2: Relationships
@@ -229,9 +229,9 @@ The story of David Brainerd, a missionary to Native Americans who lived a life o
 How healthy relationships help us grow in character and wisdom. How to pursue healthy relationships.
 *Hymn*: Blest Be the Tie That Binds
 
-### Day 3: What Does the Preface to the Ten Commandments Teach Us?
-*Catechism Q44*: What does the preface to the ten commandments teach us?
-*Catechism A*: The preface to the ten commandments teaches us, that because God is the Lord, and our God, and Redeemer, therefore we are bound to keep all his commandments.
+### Day 3: What Is Meant by the Atonement?
+*Catechism Q48*: What is meant by the Atonement?
+*Catechism A*: Christ's satisfying divine justice, by his sufferings and death, in the place of sinners.
 *Hymn*: All Hail the Power of Jesus' Name
 
 ### Day 4: Eternal
@@ -243,12 +243,12 @@ How healthy relationships help us grow in character and wisdom. How to pursue he
 The story of Adoniram Judson, who overcame many hardships to share God's Word in Burma and translate the Bible.
 *Hymn*: Faith of Our Fathers
 
-## Week 23: The First Commandment
+## Week 23: The Father's Promise
 **Memory Verse**: "You shall have no other gods before me." (Exodus 20:3)
 
-### Day 1: Which Is the First Commandment?
-*Catechism Q45*: Which is the first commandment?
-*Catechism A*: The first commandment is, Thou shalt have no other gods before me.
+### Day 1: What Did God the Father Undertake in the Covenant of Grace?
+*Catechism Q49*: What did God the Father undertake in the covenant of grace?
+*Catechism A*: To justify and sanctify those for whom Christ should die.
 *Hymn*: Our God, Our Help in Ages Past
 
 ### Day 2: Faithfulness
@@ -256,9 +256,9 @@ The story of Adoniram Judson, who overcame many hardships to share God's Word in
 Learning to keep God first in our hearts and actions.
 *Hymn*: Great Is Thy Faithfulness
 
-### Day 3: What Is Required in the First Commandment?
-*Catechism Q46*: What is required in the first commandment?
-*Catechism A*: The first commandment requireth us to know and acknowledge God to be the only true God, and our God; and to worship and glorify him accordingly.
+### Day 3: What Is Justification?
+*Catechism Q50*: What is justification?
+*Catechism A*: It is God's forgiving sinners, and treating them as if they had never sinned.
 *Hymn*: To God Be the Glory
 
 ### Day 4: Jealous
@@ -270,12 +270,12 @@ Learning to keep God first in our hearts and actions.
 The story of Fanny Crosby, the blind hymn writer who wrote thousands of songs praising God despite her disability.
 *Hymn*: Blessed Assurance
 
-## Week 24: More on the First Commandment
+## Week 24: Sanctification & Christ's Work
 **Memory Verse**: "Little children, keep yourselves from idols." (1 John 5:21)
 
-### Day 1: What Is Forbidden in the First Commandment?
-*Catechism Q47*: What is forbidden in the first commandment?
-*Catechism A*: The first commandment forbiddeth the denying, or not worshiping and glorifying the true God as God, and our God; and the giving of that worship and glory to any other, which is due to him alone.
+### Day 1: What Is Sanctification?
+*Catechism Q51*: What is sanctification?
+*Catechism A*: It is God's making sinners holy in heart and conduct.
 *Hymn*: Come, Thou Fount of Every Blessing
 
 ### Day 2: Truth
@@ -283,9 +283,9 @@ The story of Fanny Crosby, the blind hymn writer who wrote thousands of songs pr
 The lasting value of honesty and truth in our words and lives.
 *Hymn*: O Word of God Incarnate
 
-### Day 3: What Are We Specially Taught by These Words "Before Me" in the First Commandment?
-*Catechism Q48*: What are we specially taught by these words "before me" in the first commandment?
-*Catechism A*: These words "before me" in the first commandment teach us, that God, who seeth all things, taketh notice of, and is much displeased with, the sin of having any other god.
+### Day 3: For Whom Did Christ Obey and Suffer?
+*Catechism Q52*: For whom did Christ obey and suffer?
+*Catechism A*: For those whom the Father had given him.
 *Hymn*: Be Thou My Vision
 
 ### Day 4: Omniscient
@@ -297,12 +297,12 @@ The lasting value of honesty and truth in our words and lives.
 The story of William Wilberforce, who fought against slavery because he believed all humans are created in God's image.
 *Hymn*: Amazing Grace
 
-## Week 25: The Second Commandment
+## Week 25: Christ's Earthly Life
 **Memory Verse**: "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth." (Exodus 20:4)
 
-### Day 1: Which Is the Second Commandment?
-*Catechism Q49*: Which is the second commandment?
-*Catechism A*: The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments.
+### Day 1: What Kind of Life Did Christ Live on Earth?
+*Catechism Q53*: What kind of life did Christ live on earth?
+*Catechism A*: A life of poverty and suffering.
 *Hymn*: Holy, Holy, Holy
 
 ### Day 2: Purity
@@ -310,9 +310,9 @@ The story of William Wilberforce, who fought against slavery because he believed
 Seeking purity in our bodies, thoughts, words, and actions.
 *Hymn*: Whiter Than Snow
 
-### Day 3: What Is Required in the Second Commandment?
-*Catechism Q50*: What is required in the second commandment?
-*Catechism A*: The second commandment requireth the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath appointed in his word.
+### Day 3: What Kind of Death Did Christ Die?
+*Catechism Q54*: What kind of death did Christ die?
+*Catechism A*: The painful and shameful death of the cross.
 *Hymn*: Spirit of the Living God
 
 ### Day 4: Invisible
@@ -324,12 +324,12 @@ Seeking purity in our bodies, thoughts, words, and actions.
 The story of Tsar Alexander Pavlovich, who sought to apply Christian principles in his leadership and promoted Bible distribution.
 *Hymn*: Faith of Our Fathers
 
-## Week 26: More on the Second Commandment
+## Week 26: Who Will Be Saved?
 **Memory Verse**: "God is spirit, and those who worship him must worship in spirit and truth." (John 4:24)
 
-### Day 1: What Is Forbidden in the Second Commandment?
-*Catechism Q51*: What is forbidden in the second commandment?
-*Catechism A*: The second commandment forbiddeth the worshiping of God by images, or any other way not appointed in his word.
+### Day 1: Who Will Be Saved?
+*Catechism Q55*: Who will be saved?
+*Catechism A*: Only those who repent of sin, believe in Christ, and lead holy lives.
 *Hymn*: Spirit of the Living God
 
 ### Day 2: Accountability
@@ -337,9 +337,9 @@ The story of Tsar Alexander Pavlovich, who sought to apply Christian principles 
 A lesson about being answerable to God for how we worship Him.
 *Hymn*: Standing on the Promises
 
-### Day 3: What Are the Reasons Annexed to the Second Commandment?
-*Catechism Q52*: What are the reasons annexed to the second commandment?
-*Catechism A*: The reasons annexed to the second commandment are, God's sovereignty over us, his propriety in us, and the zeal he hath to his own worship.
+### Day 3: What Is It to Repent?
+*Catechism Q56*: What is it to repent?
+*Catechism A*: To be sorry for sin, and to hate and forsake it because it is displeasing to God.
 *Hymn*: Crown Him with Many Crowns
 
 ### Day 4: The Lord Is Greater

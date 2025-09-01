@@ -6,13 +6,13 @@
     "days": [
       {
         "number": 1,
-        "title": "Into What Estate Did the Fall Bring Mankind?",
+        "title": "Of What Were Our First Parents Made?",
         "type": "Catechism",
         "hymn": "Alas! And Did My Savior Bleed",
         "catechism": {
           "questionNumber": 17,
-          "question": "Into what estate did the fall bring mankind?",
-          "answer": "The fall brought mankind into an estate of sin and misery."
+          "question": "Of what were our first parents made?",
+          "answer": "God made the body of Adam out of the ground, and formed Eve from the body of Adam."
         },
         "content": [
           "Imagine a beautiful kingdom where everyone lived in perfect happiness and peace. The king was wise and good, the gardens were always blooming, and no one ever got sick or sad. But then something terrible happened - the people chose to rebel against their loving king. Suddenly, everything changed. The beautiful kingdom became broken, people started hurting each other, and sadness entered where there had only been joy.",
@@ -48,13 +48,13 @@
       },
       {
         "number": 3,
-        "title": "Wherein Consists the Sinfulness of That Estate?",
+        "title": "What Did God Give Adam and Eve Besides Bodies?",
         "type": "Catechism",
         "hymn": "Nothing but the Blood",
         "catechism": {
           "questionNumber": 18,
-          "question": "Wherein consists the sinfulness of that estate?",
-          "answer": "The sinfulness of that estate whereinto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called Original Sin; together with all actual transgressions which proceed from it."
+          "question": "What did God give Adam and Eve besides bodies?",
+          "answer": "He gave them souls that could never die."
         },
         "content": [
           "When a factory makes cars, every car that comes off the assembly line has the same basic design. If there's a problem with the design, every car will have that same problem. In a similar way, when Adam sinned, it affected not just him but everyone who would be born after him, like cars coming off a broken assembly line.",
