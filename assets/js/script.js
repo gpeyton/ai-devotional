@@ -154,6 +154,54 @@ class DevotionalApp {
           { number: 4, title: "Redeemer", type: "Attribute", hymn: "Redeemed, How I Love to Proclaim It" },
           { number: 5, title: "Charles Haddon Spurgeon", type: "Biography", hymn: "Tell Me the Old, Old Story" }
         ]
+      },
+      {
+        number: 12,
+        title: "Covenant Terms",
+        memoryVerse: "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. (Isaiah 9:6)",
+        days: [
+          { number: 1, title: "What Was Adam Bound to Do?", type: "Catechism", hymn: "All Hail the Power of Jesus' Name" },
+          { number: 2, title: "Serving Others", type: "Wisdom", hymn: "Jesus, I My Cross Have Taken" },
+          { number: 3, title: "What Did God Threaten?", type: "Catechism", hymn: "Christ the Lord Is Risen Today" },
+          { number: 4, title: "King", type: "Attribute", hymn: "Rejoice, the Lord Is King" },
+          { number: 5, title: "Lady Jane Grey", type: "Biography", hymn: "A Mighty Fortress Is Our God" }
+        ]
+      },
+      {
+        number: 13,
+        title: "The Fall",
+        memoryVerse: "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed. (Isaiah 53:5)",
+        days: [
+          { number: 1, title: "Did Adam Keep the Covenant?", type: "Catechism", hymn: "The Old Rugged Cross" },
+          { number: 2, title: "Loyalty", type: "Wisdom", hymn: "Jesus, I My Cross Have Taken" },
+          { number: 3, title: "What Is Sin?", type: "Catechism", hymn: "Crown Him with Many Crowns" },
+          { number: 4, title: "Faithful", type: "Attribute", hymn: "Great Is Thy Faithfulness" },
+          { number: 5, title: "David Livingstone", type: "Biography", hymn: "Send the Light" }
+        ]
+      },
+      {
+        number: 14,
+        title: "Understanding Sin",
+        memoryVerse: "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. (Philippians 2:8)",
+        days: [
+          { number: 1, title: "What Is Meant by Want of Conformity and Transgression?", type: "Catechism", hymn: "O Sacred Head, Now Wounded" },
+          { number: 2, title: "The Treasure of Humility", type: "Wisdom", hymn: "Jesus, I My Cross Have Taken" },
+          { number: 3, title: "What Was the Sin of Our First Parents?", type: "Catechism", hymn: "Christ the Lord Is Risen Today" },
+          { number: 4, title: "God's Tender Heart", type: "Attribute", hymn: "What a Friend We Have in Jesus" },
+          { number: 5, title: "Katharina von Bora", type: "Biography", hymn: "A Mighty Fortress Is Our God" }
+        ]
+      },
+      {
+        number: 15,
+        title: "Temptation & Fall",
+        memoryVerse: "In him we have redemption through his blood, the forgiveness of our trespasses. (Ephesians 1:7)",
+        days: [
+          { number: 1, title: "Who Tempted Them to This Sin?", type: "Catechism", hymn: "Come, Holy Spirit, Heavenly Dove" },
+          { number: 2, title: "A Heart Full of Joy", type: "Wisdom", hymn: "Joyful, Joyful, We Adore Thee" },
+          { number: 3, title: "What Befell Our First Parents When They Had Sinned?", type: "Catechism", hymn: "Spirit of the Living God" },
+          { number: 4, title: "Our Great Deliverer", type: "Attribute", hymn: "Rock of Ages, Cleft for Me" },
+          { number: 5, title: "James Clerk Maxwell", type: "Biography", hymn: "How Great Thou Art" }
+        ]
       }
     ];
   }
@@ -239,24 +287,19 @@ class DevotionalApp {
   showHome() {
     const homeContent = document.getElementById('homeContent');
     const dynamicContent = document.getElementById('dynamicContent');
-    const indexContent = document.getElementById('indexContent');
-    const categoryContent = document.getElementById('categoryContent');
     
-    if (homeContent) {
+    if (homeContent && dynamicContent) {
       homeContent.style.display = 'block';
-      if (dynamicContent) dynamicContent.style.display = 'none';
-      if (indexContent) indexContent.style.display = 'none';
-      if (categoryContent) categoryContent.style.display = 'none';
-      
+      dynamicContent.style.display = 'none';
       this.isShowingHome = true;
       this.currentWeek = null;
       this.currentDay = null;
       
-      // Update navigation button states
+      // Update home button state
       const homeButton = document.querySelector('.home-button');
-      const indexButton = document.querySelector('.index-button');
-      if (homeButton) homeButton.classList.add('active');
-      if (indexButton) indexButton.classList.remove('active');
+      if (homeButton) {
+        homeButton.classList.add('active');
+      }
       
       // Clear week selection
       document.querySelectorAll('.week-nav-item').forEach(item => {
@@ -264,154 +307,6 @@ class DevotionalApp {
       });
     }
   }
-
-  // Show index page
-  showIndex() {
-    const homeContent = document.getElementById('homeContent');
-    const dynamicContent = document.getElementById('dynamicContent');
-    const indexContent = document.getElementById('indexContent');
-    const categoryContent = document.getElementById('categoryContent');
-    
-    if (indexContent) {
-      if (homeContent) homeContent.style.display = 'none';
-      if (dynamicContent) dynamicContent.style.display = 'none';
-      indexContent.style.display = 'block';
-      if (categoryContent) categoryContent.style.display = 'none';
-      
-      this.isShowingHome = false;
-      this.currentWeek = null;
-      this.currentDay = null;
-      
-      // Update navigation button states
-      const homeButton = document.querySelector('.home-button');
-      const indexButton = document.querySelector('.index-button');
-      if (homeButton) homeButton.classList.remove('active');
-      if (indexButton) indexButton.classList.add('active');
-      
-      // Clear week selection
-      document.querySelectorAll('.week-nav-item').forEach(item => {
-        item.classList.remove('active');
-      });
-    }
-  }
-
-  // Show lesson category
-  showLessonCategory(category) {
-    const homeContent = document.getElementById('homeContent');
-    const dynamicContent = document.getElementById('dynamicContent');
-    const indexContent = document.getElementById('indexContent');
-    const categoryContent = document.getElementById('categoryContent');
-    
-    if (categoryContent) {
-      if (homeContent) homeContent.style.display = 'none';
-      if (dynamicContent) dynamicContent.style.display = 'none';
-      if (indexContent) indexContent.style.display = 'none';
-      categoryContent.style.display = 'block';
-      
-      this.isShowingHome = false;
-      this.currentWeek = null;
-      this.currentDay = null;
-      
-      // Update navigation button states
-      const homeButton = document.querySelector('.home-button');
-      const indexButton = document.querySelector('.index-button');
-      if (homeButton) homeButton.classList.remove('active');
-      if (indexButton) indexButton.classList.remove('active');
-      
-      // Clear week selection
-      document.querySelectorAll('.week-nav-item').forEach(item => {
-        item.classList.remove('active');
-      });
-      
-      // Generate category content
-      this.renderLessonCategory(category);
-    }
-  }
-
-  // Render lesson category page
-  renderLessonCategory(category) {
-    const categoryContent = document.getElementById('categoryContent');
-    if (!categoryContent) return;
-    
-    const lessons = this.getLessonsByCategory(category);
-    const categoryTitle = this.getCategoryTitle(category);
-    
-    categoryContent.innerHTML = `
-      <div class="category-page">
-        <div class="page-header">
-          <button class="back-button modern-back-btn" onclick="devotionalApp.showIndex()">
-            <span class="back-icon">←</span>
-            <span class="back-text">Back to Index</span>
-          </button>
-          <div class="category-page-title">
-            <h1 class="page-title">${categoryTitle}</h1>
-          </div>
-          <p class="page-subtitle">${lessons.length} lessons available</p>
-        </div>
-        
-        <div class="lessons-grid">
-          ${lessons.map(lesson => `
-            <div class="lesson-card modern-card" onclick="devotionalApp.loadDay(${lesson.week}, ${lesson.day})">
-              <div class="lesson-header">
-                <h3 class="lesson-title">${lesson.title}</h3>
-                <div class="lesson-meta">Week ${lesson.week}, Day ${lesson.day}</div>
-              </div>
-              <div class="lesson-arrow">→</div>
-            </div>
-          `).join('')}
-        </div>
-      </div>
-    `;
-  }
-
-  // Get lessons by category
-  getLessonsByCategory(category) {
-    const lessons = [];
-    
-    this.weeks.forEach(week => {
-      week.days.forEach(day => {
-        let matches = false;
-        
-        switch(category) {
-          case 'catechism':
-            matches = day.type === 'Catechism';
-            break;
-          case 'wisdom':
-            matches = day.type === 'Wisdom';
-            break;
-          case 'attributes':
-            matches = day.type === 'Attribute';
-            break;
-          case 'biographies':
-            matches = day.type === 'Biography';
-            break;
-        }
-        
-        if (matches) {
-          lessons.push({
-            week: week.number,
-            day: day.number,
-            title: day.title,
-            type: day.type
-          });
-        }
-      });
-    });
-    
-    return lessons;
-  }
-
-  // Get category title
-  getCategoryTitle(category) {
-    switch(category) {
-      case 'catechism': return 'Catechism Lessons';
-      case 'wisdom': return 'Wisdom Lessons';
-      case 'attributes': return 'God\'s Attributes';
-      case 'biographies': return 'Mini Biographies';
-      default: return 'Lessons';
-    }
-  }
-
 
   // Load day content
   async loadDay(weekNumber, dayNumber) {
@@ -421,13 +316,9 @@ class DevotionalApp {
 
     const homeContent = document.getElementById('homeContent');
     const dynamicContent = document.getElementById('dynamicContent');
-    const indexContent = document.getElementById('indexContent');
-    const categoryContent = document.getElementById('categoryContent');
     
-    if (dynamicContent) {
-      if (homeContent) homeContent.style.display = 'none';
-      if (indexContent) indexContent.style.display = 'none';
-      if (categoryContent) categoryContent.style.display = 'none';
+    if (homeContent && dynamicContent) {
+      homeContent.style.display = 'none';
       dynamicContent.style.display = 'block';
       
       // Update navigation states
@@ -598,7 +489,15 @@ class DevotionalApp {
       '10-1': 'What is the misery of that estate?',
       '10-3': 'Did God leave all mankind to perish?',
       '11-1': 'Who is the Redeemer of God\'s elect?',
-      '11-3': 'How did Christ, being the Son of God, become man?'
+      '11-3': 'How did Christ, being the Son of God, become man?',
+      '12-1': 'What was Adam bound to do by the covenant of works? What did God promise?',
+      '12-3': 'What did God threaten in the covenant of works?',
+      '13-1': 'Did Adam keep the covenant of works?',
+      '13-3': 'What is sin?',
+      '14-1': 'What is meant by want of conformity? What is meant by transgression?',
+      '14-3': 'What was the sin of our first parents?',
+      '15-1': 'Who tempted them to this sin?',
+      '15-3': 'What befell our first parents when they had sinned?'
     };
     
     return questions[`${weekNumber}-${dayNumber}`] || 'Question will be added soon.';
@@ -628,7 +527,15 @@ class DevotionalApp {
       '10-1': 'All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all the miseries of this life, to death itself, and to the pains of hell forever.',
       '10-3': 'God, having out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer.',
       '11-1': 'The only Redeemer of God\'s elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was, and continueth to be, God and man in two distinct natures, and one person, forever.',
-      '11-3': 'Christ, the Son of God, became man, by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Ghost, in the womb of the Virgin Mary, and born of her, yet without sin.'
+      '11-3': 'Christ, the Son of God, became man, by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Ghost, in the womb of the Virgin Mary, and born of her, yet without sin.',
+      '12-1': 'To obey God perfectly. To reward Adam with life if he obeyed him.',
+      '12-3': 'Death, if he disobeyed.',
+      '13-1': 'No; he sinned against God.',
+      '13-3': 'Sin is any want of conformity unto, or transgression of, the law of God.',
+      '14-1': 'Not being or doing what God requires. Doing what God forbids.',
+      '14-3': 'Eating the forbidden fruit.',
+      '15-1': 'The devil tempted Eve, and she gave the fruit to Adam.',
+      '15-3': 'Instead of being holy and happy, they became sinful and miserable.'
     };
     
     return answers[`${weekNumber}-${dayNumber}`] || 'Answer will be added soon.';
@@ -641,7 +548,8 @@ class DevotionalApp {
       '1-1': 1, '1-3': 2, '2-1': 3, '2-3': 4, '3-1': 5, '3-3': 6,
       '4-1': 7, '4-3': 8, '5-1': 9, '5-3': 10, '6-1': 11, '6-3': 12,
       '7-1': 13, '7-3': 14, '8-1': 15, '8-3': 16, '9-1': 17, '9-3': 18,
-      '10-1': 19, '10-3': 20, '11-1': 21, '11-3': 22
+      '10-1': 19, '10-3': 20, '11-1': 21, '11-3': 22, '12-1': 24, '12-3': 26,
+      '13-1': 27, '13-3': 28, '14-1': 29, '14-3': 31, '15-1': 32, '15-3': 33
     };
     return catechismMap[`${weekNumber}-${dayNumber}`] || weekNumber;
   }
@@ -659,7 +567,11 @@ class DevotionalApp {
       '8-2': 'The way of a fool is right in his own eyes, but a wise man listens to advice. (Proverbs 12:15)',
       '9-2': 'Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy. (Proverbs 28:13)',
       '10-2': 'Hope deferred makes the heart sick, but a desire fulfilled is a tree of life. (Proverbs 13:12)',
-      '11-2': 'I will praise the name of God with a song; I will magnify him with thanksgiving. (Psalm 69:30)'
+      '11-2': 'I will praise the name of God with a song; I will magnify him with thanksgiving. (Psalm 69:30)',
+      '12-2': 'Better is a little with righteousness than great revenues with injustice. (Proverbs 16:8)',
+      '13-2': 'Many are the plans in the mind of a man, but it is the purpose of the Lord that will stand. (Proverbs 19:21)',
+      '14-2': 'When pride comes, then comes disgrace, but with the humble is wisdom. (Proverbs 11:2)',
+      '15-2': 'A joyful heart is good medicine, but a crushed spirit dries up the bones. (Proverbs 17:22)'
     };
     return wisdomVerses[`${weekNumber}-${dayNumber}`] || 'Wisdom verse will be added soon.';
   }
@@ -668,7 +580,8 @@ class DevotionalApp {
   getAttribute(weekNumber, dayNumber) {
     const attributes = {
       1: 'Creative', 2: 'True', 3: 'Trustworthy', 4: 'Spirit', 5: 'Sovereign',
-      6: 'Savior', 7: 'Just', 8: 'Wrathful', 9: 'Holy', 10: 'Merciful', 11: 'Redeemer'
+      6: 'Savior', 7: 'Just', 8: 'Wrathful', 9: 'Holy', 10: 'Merciful', 11: 'Redeemer',
+      12: 'King', 13: 'Faithful', 14: 'Compassionate', 15: 'Deliverer'
     };
     return attributes[weekNumber] || 'Attribute';
   }
@@ -686,7 +599,11 @@ class DevotionalApp {
       8: 'For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men. (Romans 1:18)',
       9: 'And one called to another and said: "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!" (Isaiah 6:3)',
       10: 'The Lord is merciful and gracious, slow to anger and abounding in steadfast love. (Psalm 103:8)',
-      11: 'Thus says the Lord, the King of Israel and his Redeemer, the Lord of hosts: "I am the first and I am the last; besides me there is no god." (Isaiah 44:6)'
+      11: 'Thus says the Lord, the King of Israel and his Redeemer, the Lord of hosts: "I am the first and I am the last; besides me there is no god." (Isaiah 44:6)',
+      12: 'The Lord reigns; let the earth rejoice; let the many coastlands be glad! (Psalm 97:1)',
+      13: 'They are new every morning; great is your faithfulness. (Lamentations 3:23)',
+      14: 'As a father shows compassion to his children, so the Lord shows compassion to those who fear him. (Psalm 103:13)',
+      15: 'The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge. (Psalm 18:2)'
     };
     return attributeVerses[weekNumber] || 'Attribute verse will be added soon.';
   }
@@ -696,7 +613,8 @@ class DevotionalApp {
     const persons = {
       1: 'Michael Faraday', 2: 'William Tyndale', 3: 'Jim Elliot', 4: 'C.S. Lewis', 5: 'George Müller',
       6: 'John Newton', 7: 'Martin Luther', 8: 'Jonathan Edwards', 9: 'Augustine of Hippo',
-      10: 'John Bunyan', 11: 'Charles Haddon Spurgeon'
+      10: 'John Bunyan', 11: 'Charles Haddon Spurgeon', 12: 'Lady Jane Grey', 13: 'David Livingstone',
+      14: 'Katharina von Bora', 15: 'James Clerk Maxwell'
     };
     return persons[weekNumber] || 'Historical Figure';
   }
@@ -706,7 +624,8 @@ class DevotionalApp {
     const dates = {
       1: '1791-1867', 2: '1494-1536', 3: '1927-1956', 4: '1898-1963', 5: '1805-1898',
       6: '1725-1807', 7: '1483-1546', 8: '1703-1758', 9: '354-430',
-      10: '1628-1688', 11: '1834-1892'
+      10: '1628-1688', 11: '1834-1892', 12: '1537-1554', 13: '1813-1873',
+      14: '1499-1552', 15: '1831-1879'
     };
     return dates[weekNumber] || 'Historical Figure';
   }
@@ -724,7 +643,11 @@ class DevotionalApp {
       8: 'Preacher who helped people understand the seriousness of sin and greatness of salvation',
       9: 'Teacher who lived a sinful life before God changed his heart',
       10: 'Author of "Pilgrim\'s Progress" about the journey from sin to salvation',
-      11: 'The "Prince of Preachers" who helped many understand Jesus\' love'
+      11: 'The "Prince of Preachers" who helped many understand Jesus\' love',
+      12: 'Young queen who chose to die rather than deny her faith in Jesus',
+      13: 'Explorer who brought the message of King Jesus to people in Africa',
+      14: 'Wife of Martin Luther who showed Christ-like humility and service',
+      15: 'Scottish scientist who revealed God\'s orderly creation through studying electricity and magnetism'
     };
     return descriptions[weekNumber] || 'A faithful Christian who loved and served God';
   }
